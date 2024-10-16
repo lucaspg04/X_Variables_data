@@ -1,0 +1,6002 @@
+[
+  {
+    "AvgRoundVelocity": 81.82960364491272,
+    "TimeAlive": 108.93530094418148,
+    "ScaledTimeAlive": 0.8762642041102346,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.78261679732715,
+    "TimeAlive": 113.46474513780389,
+    "ScaledTimeAlive": 0.8736240422041999,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.29633975764368,
+    "TimeAlive": 113.43454596112025,
+    "ScaledTimeAlive": 0.9237584720001063,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.39921047634296,
+    "TimeAlive": 118.5363577345672,
+    "ScaledTimeAlive": 0.8506851526032044,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.71369559893115,
+    "TimeAlive": 131.55532584823314,
+    "ScaledTimeAlive": 0.9938591696073892,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.83536105291395,
+    "TimeAlive": 144.0457463628191,
+    "ScaledTimeAlive": 0.9780088180515337,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.95530552566412,
+    "TimeAlive": 138.0849149970629,
+    "ScaledTimeAlive": 0.9640715780541926,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.03418802506222,
+    "TimeAlive": 117.50731709289028,
+    "ScaledTimeAlive": 0.8951451069864079,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 87.92803455307961,
+    "TimeAlive": 134.70107227016047,
+    "ScaledTimeAlive": 0.837438413765335,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.88615252203766,
+    "TimeAlive": 129.64108810332178,
+    "ScaledTimeAlive": 0.9634299083600009,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.14849300577112,
+    "TimeAlive": 133.1805551286968,
+    "ScaledTimeAlive": 0.9421030312153171,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.59054707817901,
+    "TimeAlive": 109.31996364320058,
+    "ScaledTimeAlive": 0.9841067494601231,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.62090858807879,
+    "TimeAlive": 137.9340263000002,
+    "ScaledTimeAlive": 0.8543158054150564,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.78028737132425,
+    "TimeAlive": 120.70826114408342,
+    "ScaledTimeAlive": 0.9095878438149706,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 90.5369746759972,
+    "TimeAlive": 144.11578804314158,
+    "ScaledTimeAlive": 0.8214517212887735,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.53095212210184,
+    "TimeAlive": 145.1071011774855,
+    "ScaledTimeAlive": 0.8740565143879471,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.32846543313931,
+    "TimeAlive": 139.3079534601814,
+    "ScaledTimeAlive": 0.8326820492567416,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 81.94871798479218,
+    "TimeAlive": 109.36094988934178,
+    "ScaledTimeAlive": 0.9242647873342016,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.65457913837479,
+    "TimeAlive": 111.57931595608822,
+    "ScaledTimeAlive": 0.8472758754355143,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.54610830556386,
+    "TimeAlive": 113.8439091324534,
+    "ScaledTimeAlive": 0.8721340719529275,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.95395892619632,
+    "TimeAlive": 114.66628342743212,
+    "ScaledTimeAlive": 0.9396954307003349,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.6943577586665,
+    "TimeAlive": 127.93967914415806,
+    "ScaledTimeAlive": 0.9122228951822046,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.14347523808873,
+    "TimeAlive": 131.8941713148191,
+    "ScaledTimeAlive": 0.8347454014387852,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.76242130334619,
+    "TimeAlive": 126.05853164412412,
+    "ScaledTimeAlive": 0.8893125228227734,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.11804042081971,
+    "TimeAlive": 104.82519623719404,
+    "ScaledTimeAlive": 0.8753365830679722,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 97.01918890989005,
+    "TimeAlive": 110.4626164524249,
+    "ScaledTimeAlive": 0.8164669140719579,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 88.58751125610156,
+    "TimeAlive": 146.89045032732582,
+    "ScaledTimeAlive": 0.9764230910272614,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 87.73505107803071,
+    "TimeAlive": 123.17500376628367,
+    "ScaledTimeAlive": 0.8912953032407347,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.08839831817835,
+    "TimeAlive": 100.05504151698057,
+    "ScaledTimeAlive": 0.8113350618506738,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 84.4097135649432,
+    "TimeAlive": 139.43917351378101,
+    "ScaledTimeAlive": 0.99158760941368,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.11302250229441,
+    "TimeAlive": 129.18800432834445,
+    "ScaledTimeAlive": 0.8856772434199164,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.44428821760137,
+    "TimeAlive": 120.4177054890578,
+    "ScaledTimeAlive": 0.9142098731198032,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.40944201407325,
+    "TimeAlive": 128.4409318799247,
+    "ScaledTimeAlive": 0.873630371282983,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.60058730292153,
+    "TimeAlive": 124.92665845281361,
+    "ScaledTimeAlive": 0.9868543220294045,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 97.68313291600627,
+    "TimeAlive": 110.61104971277436,
+    "ScaledTimeAlive": 0.8348873423547691,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.15998004437604,
+    "TimeAlive": 127.72489117029099,
+    "ScaledTimeAlive": 0.8032458885643355,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.11961330244482,
+    "TimeAlive": 134.07705496931692,
+    "ScaledTimeAlive": 0.8191702672075918,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 87.80270765565203,
+    "TimeAlive": 102.72302618262411,
+    "ScaledTimeAlive": 0.8347031338087663,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.94139924396953,
+    "TimeAlive": 108.08743201858648,
+    "ScaledTimeAlive": 0.8684620799645755,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.33083139338997,
+    "TimeAlive": 101.77047631324479,
+    "ScaledTimeAlive": 0.9743214032964006,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.13836879745642,
+    "TimeAlive": 127.23636746423199,
+    "ScaledTimeAlive": 0.9930325205282554,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.32899623759297,
+    "TimeAlive": 141.46221405976274,
+    "ScaledTimeAlive": 0.8790789258897572,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 97.61245949763125,
+    "TimeAlive": 101.00003935807594,
+    "ScaledTimeAlive": 0.8361379280044129,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 90.1266171018092,
+    "TimeAlive": 124.801169238949,
+    "ScaledTimeAlive": 0.9608372238128763,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.90832325819008,
+    "TimeAlive": 128.6373417146171,
+    "ScaledTimeAlive": 0.8278028125439607,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.88280384626353,
+    "TimeAlive": 133.48355416723413,
+    "ScaledTimeAlive": 0.8786198370808956,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 97.21782435868802,
+    "TimeAlive": 104.5557912206085,
+    "ScaledTimeAlive": 0.94317324126666,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.83744122629686,
+    "TimeAlive": 100.49208024365427,
+    "ScaledTimeAlive": 0.858120393552532,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.54664516658602,
+    "TimeAlive": 121.31126114936232,
+    "ScaledTimeAlive": 0.9221493517847038,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.59445189944546,
+    "TimeAlive": 123.72298952704644,
+    "ScaledTimeAlive": 0.8595935176159425,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.40925402081713,
+    "TimeAlive": 107.86132596216238,
+    "ScaledTimeAlive": 0.8826148637901591,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 85.07058666081063,
+    "TimeAlive": 138.64571794389732,
+    "ScaledTimeAlive": 0.9662411680585996,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 90.12190654959352,
+    "TimeAlive": 130.1925636997469,
+    "ScaledTimeAlive": 0.9841282720441803,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 97.19696982372282,
+    "TimeAlive": 137.24958686792826,
+    "ScaledTimeAlive": 0.9084729750188422,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.56770018122016,
+    "TimeAlive": 148.0377534956728,
+    "ScaledTimeAlive": 0.9556893477774298,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.82567842668212,
+    "TimeAlive": 133.3519889190389,
+    "ScaledTimeAlive": 0.9502324406992959,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.8347753466183,
+    "TimeAlive": 141.1939630620668,
+    "ScaledTimeAlive": 0.9534862729130752,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.96672967566306,
+    "TimeAlive": 133.66439133361473,
+    "ScaledTimeAlive": 0.9640641867496724,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 83.52777300033492,
+    "TimeAlive": 147.84534712067733,
+    "ScaledTimeAlive": 0.8452567554322183,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.25895351195486,
+    "TimeAlive": 127.68783985495494,
+    "ScaledTimeAlive": 0.831935376439655,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.29579879486623,
+    "TimeAlive": 137.19877184735518,
+    "ScaledTimeAlive": 0.8320901490806335,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.7492467816637,
+    "TimeAlive": 146.71984264256878,
+    "ScaledTimeAlive": 0.9477357232833867,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 83.95717376428344,
+    "TimeAlive": 119.55223771803492,
+    "ScaledTimeAlive": 0.8663608609262056,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.01639837905739,
+    "TimeAlive": 118.68010921223843,
+    "ScaledTimeAlive": 0.8324729887515779,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.50927682825531,
+    "TimeAlive": 130.42033408836653,
+    "ScaledTimeAlive": 0.9029293072756062,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 96.82525780938971,
+    "TimeAlive": 101.34775673881767,
+    "ScaledTimeAlive": 0.8714042261832347,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.59254243371697,
+    "TimeAlive": 142.09627501831494,
+    "ScaledTimeAlive": 0.9973984707711935,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 90.76929356168596,
+    "TimeAlive": 136.22006237192392,
+    "ScaledTimeAlive": 0.8939286069547986,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.56901291254233,
+    "TimeAlive": 136.47243904773038,
+    "ScaledTimeAlive": 0.9645699291976156,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.16712649808508,
+    "TimeAlive": 132.6153639050402,
+    "ScaledTimeAlive": 0.9484751221656685,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.89510415836634,
+    "TimeAlive": 136.19378398250433,
+    "ScaledTimeAlive": 0.9385921838932126,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.81236139179087,
+    "TimeAlive": 111.89557679573775,
+    "ScaledTimeAlive": 0.9619210454605369,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.21751696649324,
+    "TimeAlive": 144.02445237925127,
+    "ScaledTimeAlive": 0.9344411658280962,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 97.46559383385551,
+    "TimeAlive": 103.81534214078586,
+    "ScaledTimeAlive": 0.8440012977823935,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.51304601029734,
+    "TimeAlive": 141.20512645455588,
+    "ScaledTimeAlive": 0.8498113656892131,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.432872225761,
+    "TimeAlive": 132.39139136684716,
+    "ScaledTimeAlive": 0.9150962546181033,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 99.6299852749821,
+    "TimeAlive": 111.27814333614506,
+    "ScaledTimeAlive": 0.8784356144705365,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.15868671539886,
+    "TimeAlive": 101.61742193178615,
+    "ScaledTimeAlive": 0.9790988214341307,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.12527358260388,
+    "TimeAlive": 139.42915946202558,
+    "ScaledTimeAlive": 0.9965029845491241,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.35274044803693,
+    "TimeAlive": 127.95084320661388,
+    "ScaledTimeAlive": 0.9703403431111775,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.18388858117692,
+    "TimeAlive": 145.83724629696587,
+    "ScaledTimeAlive": 0.8648065360901017,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.25443102899668,
+    "TimeAlive": 108.51788357807287,
+    "ScaledTimeAlive": 0.8840297411219844,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 83.77029294010974,
+    "TimeAlive": 120.55764084107093,
+    "ScaledTimeAlive": 0.8969218650892286,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.29200465518053,
+    "TimeAlive": 127.24257831210092,
+    "ScaledTimeAlive": 0.9555430551311666,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 99.56631179245076,
+    "TimeAlive": 131.77861613825274,
+    "ScaledTimeAlive": 0.96681163556222,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.98023478809992,
+    "TimeAlive": 116.7768275276867,
+    "ScaledTimeAlive": 0.9592630523111976,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.81559011257374,
+    "TimeAlive": 117.26780107975146,
+    "ScaledTimeAlive": 0.8571067159352758,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.99878456659397,
+    "TimeAlive": 128.74527151761313,
+    "ScaledTimeAlive": 0.8323125318277897,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.50543502642743,
+    "TimeAlive": 144.16728921635547,
+    "ScaledTimeAlive": 0.9427631229283226,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.63235865288394,
+    "TimeAlive": 111.18595123363079,
+    "ScaledTimeAlive": 0.9669448155961745,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 88.19703265416351,
+    "TimeAlive": 129.75783789996427,
+    "ScaledTimeAlive": 0.9927263656426794,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 81.79589532656611,
+    "TimeAlive": 112.19828750302007,
+    "ScaledTimeAlive": 0.8207908000903954,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 83.30182891261505,
+    "TimeAlive": 127.47789273215125,
+    "ScaledTimeAlive": 0.9873993154768193,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.64092638612688,
+    "TimeAlive": 147.04062074656457,
+    "ScaledTimeAlive": 0.8313460471432866,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 83.29836848181095,
+    "TimeAlive": 124.78827240579508,
+    "ScaledTimeAlive": 0.9058008631298083,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 87.1727812818409,
+    "TimeAlive": 139.73954701208743,
+    "ScaledTimeAlive": 0.981405740874668,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.15544778765084,
+    "TimeAlive": 110.60357244972661,
+    "ScaledTimeAlive": 0.800946941264373,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.8587651441762,
+    "TimeAlive": 124.89262635800567,
+    "ScaledTimeAlive": 0.8065234473092596,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.25858061471467,
+    "TimeAlive": 130.9798268377749,
+    "ScaledTimeAlive": 0.871284374051716,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.69118525890593,
+    "TimeAlive": 125.91766992067241,
+    "ScaledTimeAlive": 0.8379996001821979,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.49664845627555,
+    "TimeAlive": 143.73991473322008,
+    "ScaledTimeAlive": 0.9309306106944493,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.41141197326178,
+    "TimeAlive": 135.22944530270775,
+    "ScaledTimeAlive": 0.8425409964910658,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 99.0746549096558,
+    "TimeAlive": 134.58100792473553,
+    "ScaledTimeAlive": 0.8495791748243862,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.06917231968654,
+    "TimeAlive": 109.95958212430952,
+    "ScaledTimeAlive": 0.9773419637598036,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.48612648096092,
+    "TimeAlive": 131.73869745315932,
+    "ScaledTimeAlive": 0.81087660840499,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.2379743059654,
+    "TimeAlive": 138.7853559507374,
+    "ScaledTimeAlive": 0.9346096981394949,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.16545737803176,
+    "TimeAlive": 113.93466380017433,
+    "ScaledTimeAlive": 0.9235300822837208,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 80.57738848157517,
+    "TimeAlive": 122.83860934304975,
+    "ScaledTimeAlive": 0.8849261090747895,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.45828617224521,
+    "TimeAlive": 113.8746443271182,
+    "ScaledTimeAlive": 0.8391883282216768,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 83.10765217824468,
+    "TimeAlive": 114.76652399405373,
+    "ScaledTimeAlive": 0.9032670776632905,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.78101635855406,
+    "TimeAlive": 117.55389830503495,
+    "ScaledTimeAlive": 0.8457358144356364,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.3722432915958,
+    "TimeAlive": 102.0145862457797,
+    "ScaledTimeAlive": 0.9923488062662161,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.1470938015348,
+    "TimeAlive": 132.19367358928503,
+    "ScaledTimeAlive": 0.8876627209742552,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.48504684611922,
+    "TimeAlive": 139.03805644748775,
+    "ScaledTimeAlive": 0.8159484914790462,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 84.83439664299658,
+    "TimeAlive": 125.65654778208723,
+    "ScaledTimeAlive": 0.8897165239629814,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.94699597493583,
+    "TimeAlive": 120.50700104849871,
+    "ScaledTimeAlive": 0.8683868516683154,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 85.59531012392777,
+    "TimeAlive": 123.48525849707718,
+    "ScaledTimeAlive": 0.9136173305157328,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.48942837926612,
+    "TimeAlive": 133.9014249188396,
+    "ScaledTimeAlive": 0.9552984802610528,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.7502215327898,
+    "TimeAlive": 122.66145126092042,
+    "ScaledTimeAlive": 0.9822865188769507,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.53707139025894,
+    "TimeAlive": 147.34710320336876,
+    "ScaledTimeAlive": 0.9915371911776674,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.61602776919916,
+    "TimeAlive": 116.34247544389726,
+    "ScaledTimeAlive": 0.9650183175417559,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.5477139121764,
+    "TimeAlive": 123.1283041263789,
+    "ScaledTimeAlive": 0.9610489438021199,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.8349812484596,
+    "TimeAlive": 126.23460001870524,
+    "ScaledTimeAlive": 0.9701920094555755,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.50489076112964,
+    "TimeAlive": 130.08690037387578,
+    "ScaledTimeAlive": 0.9461095702707812,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.830855696898,
+    "TimeAlive": 138.61401354828104,
+    "ScaledTimeAlive": 0.973420041760059,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.80913970687985,
+    "TimeAlive": 107.88346086091647,
+    "ScaledTimeAlive": 0.9928268742124051,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 90.80270554696128,
+    "TimeAlive": 135.74443621668817,
+    "ScaledTimeAlive": 0.814725696167464,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 84.02264312430721,
+    "TimeAlive": 128.49891498575525,
+    "ScaledTimeAlive": 0.922874437437304,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.795586040325,
+    "TimeAlive": 133.46725140578152,
+    "ScaledTimeAlive": 0.8471724820702888,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 96.19448360119982,
+    "TimeAlive": 149.25399572809522,
+    "ScaledTimeAlive": 0.8901938632191354,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.23348257969768,
+    "TimeAlive": 139.34945867214273,
+    "ScaledTimeAlive": 0.933695596876639,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.05007359911758,
+    "TimeAlive": 142.03634246249254,
+    "ScaledTimeAlive": 0.8120231975769727,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.54635360788335,
+    "TimeAlive": 112.19900345182108,
+    "ScaledTimeAlive": 0.8158411187776281,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.04540423776423,
+    "TimeAlive": 145.5926322528802,
+    "ScaledTimeAlive": 0.861362597773764,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 87.74670815739049,
+    "TimeAlive": 130.91062370464132,
+    "ScaledTimeAlive": 0.8776385124395105,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.46810131642175,
+    "TimeAlive": 137.0483357970485,
+    "ScaledTimeAlive": 0.894473823347399,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.98891934191208,
+    "TimeAlive": 112.26374912737914,
+    "ScaledTimeAlive": 0.9845851781730107,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.01284750998578,
+    "TimeAlive": 131.2658030606493,
+    "ScaledTimeAlive": 0.8739749347309129,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.5591606072569,
+    "TimeAlive": 147.7368617259135,
+    "ScaledTimeAlive": 0.9211138935718703,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.93572204416844,
+    "TimeAlive": 113.25377413260725,
+    "ScaledTimeAlive": 0.8523667593095647,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.8423977759513,
+    "TimeAlive": 127.70786899314606,
+    "ScaledTimeAlive": 0.9388880316198489,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.76824578979485,
+    "TimeAlive": 144.97768130135097,
+    "ScaledTimeAlive": 0.89732518885353,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 90.86912894218607,
+    "TimeAlive": 100.68932863932136,
+    "ScaledTimeAlive": 0.9316525073115118,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.78770514823695,
+    "TimeAlive": 149.59503055253617,
+    "ScaledTimeAlive": 0.9324982495462627,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 88.13356542562144,
+    "TimeAlive": 112.98720096645746,
+    "ScaledTimeAlive": 0.8559836801912436,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.60043796159846,
+    "TimeAlive": 144.95898088364004,
+    "ScaledTimeAlive": 0.9553817745770565,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.52909763878614,
+    "TimeAlive": 147.1938242693753,
+    "ScaledTimeAlive": 0.8481185059315569,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.65907368788771,
+    "TimeAlive": 145.320625677084,
+    "ScaledTimeAlive": 0.8904949147995934,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 84.34357790993607,
+    "TimeAlive": 133.74396657746118,
+    "ScaledTimeAlive": 0.9611718990614371,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.01625968116906,
+    "TimeAlive": 148.11262440691766,
+    "ScaledTimeAlive": 0.8919963413833185,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 95.14896864075152,
+    "TimeAlive": 118.30729762024761,
+    "ScaledTimeAlive": 0.9734514494515832,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 80.33107611370097,
+    "TimeAlive": 146.2015796299889,
+    "ScaledTimeAlive": 0.9974057359163522,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 95.41048601825129,
+    "TimeAlive": 107.11825006264826,
+    "ScaledTimeAlive": 0.9824149601390268,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.92946979203028,
+    "TimeAlive": 127.10666643140615,
+    "ScaledTimeAlive": 0.9746839051634374,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 95.45296219777947,
+    "TimeAlive": 141.78493520696867,
+    "ScaledTimeAlive": 0.9373181886682278,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 95.04678923068901,
+    "TimeAlive": 122.62748055877816,
+    "ScaledTimeAlive": 0.884191719344896,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 87.69138582797699,
+    "TimeAlive": 106.75329412644368,
+    "ScaledTimeAlive": 0.8167044261617911,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.25584106433264,
+    "TimeAlive": 128.08976805139997,
+    "ScaledTimeAlive": 0.9165744392006562,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 83.30378977492379,
+    "TimeAlive": 102.50910068471704,
+    "ScaledTimeAlive": 0.9783360539047273,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.65679284902316,
+    "TimeAlive": 131.3784363093913,
+    "ScaledTimeAlive": 0.9261897973788927,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.0612745718088,
+    "TimeAlive": 108.69619219711052,
+    "ScaledTimeAlive": 0.8636390569411801,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.99488561676489,
+    "TimeAlive": 106.11977553532087,
+    "ScaledTimeAlive": 0.9777853373383565,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.24001750400673,
+    "TimeAlive": 104.98581433057318,
+    "ScaledTimeAlive": 0.8520098068991864,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.18868248435619,
+    "TimeAlive": 130.1484065578668,
+    "ScaledTimeAlive": 0.892289242190965,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.21558034867574,
+    "TimeAlive": 125.14227539019785,
+    "ScaledTimeAlive": 0.9605419476010751,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 90.37235996100546,
+    "TimeAlive": 102.18858906514558,
+    "ScaledTimeAlive": 0.8836772403666825,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.34425462709703,
+    "TimeAlive": 102.34711600893893,
+    "ScaledTimeAlive": 0.9736474373828826,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.36627361626466,
+    "TimeAlive": 114.72371253639258,
+    "ScaledTimeAlive": 0.9092584496535029,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.88716134410194,
+    "TimeAlive": 109.70566806028663,
+    "ScaledTimeAlive": 0.9332573738399722,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 95.74690002353964,
+    "TimeAlive": 100.36869634120512,
+    "ScaledTimeAlive": 0.8735806961881362,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.09296491619497,
+    "TimeAlive": 127.3717014758648,
+    "ScaledTimeAlive": 0.9778191322918368,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.74074604963869,
+    "TimeAlive": 111.79762129688581,
+    "ScaledTimeAlive": 0.9007284066223484,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.3919440701579,
+    "TimeAlive": 139.71740014312087,
+    "ScaledTimeAlive": 0.8517159123915025,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.90097902460053,
+    "TimeAlive": 132.3891439259804,
+    "ScaledTimeAlive": 0.955319309332514,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.60158029950487,
+    "TimeAlive": 116.49374715896995,
+    "ScaledTimeAlive": 0.9880366981616604,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.45866357280177,
+    "TimeAlive": 123.27333799648314,
+    "ScaledTimeAlive": 0.9645367218190064,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.77848529306549,
+    "TimeAlive": 103.29813038319664,
+    "ScaledTimeAlive": 0.9149643106962806,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.00097483783547,
+    "TimeAlive": 144.99318918278354,
+    "ScaledTimeAlive": 0.996771810523033,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.89190730907652,
+    "TimeAlive": 128.76938818079327,
+    "ScaledTimeAlive": 0.903360322811495,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 95.2521796727945,
+    "TimeAlive": 122.242381846053,
+    "ScaledTimeAlive": 0.9193407162254125,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.13477023899208,
+    "TimeAlive": 117.1193463475541,
+    "ScaledTimeAlive": 0.8661718384936958,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.4857464273493,
+    "TimeAlive": 142.5998794904778,
+    "ScaledTimeAlive": 0.8855444871624792,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.21776825397596,
+    "TimeAlive": 125.41476617784771,
+    "ScaledTimeAlive": 0.9756849350863517,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 83.88085426904716,
+    "TimeAlive": 146.17682214305313,
+    "ScaledTimeAlive": 0.8724669427754779,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.56826067200173,
+    "TimeAlive": 144.6533662269219,
+    "ScaledTimeAlive": 0.8223898896060721,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.91627077088354,
+    "TimeAlive": 144.06542617796367,
+    "ScaledTimeAlive": 0.9500258167827533,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 87.16953101021863,
+    "TimeAlive": 124.81808843390088,
+    "ScaledTimeAlive": 0.9604436394363779,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.33416431329458,
+    "TimeAlive": 117.06828001781045,
+    "ScaledTimeAlive": 0.9375863089017762,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.25511816737706,
+    "TimeAlive": 127.87419200554208,
+    "ScaledTimeAlive": 0.9934151134674649,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 97.05954348060138,
+    "TimeAlive": 148.26465742166445,
+    "ScaledTimeAlive": 0.8163241396247255,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.37678579150472,
+    "TimeAlive": 125.21324968754759,
+    "ScaledTimeAlive": 0.8037013345323029,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 87.95163762408792,
+    "TimeAlive": 122.75516635257233,
+    "ScaledTimeAlive": 0.807263986700644,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.54924376492009,
+    "TimeAlive": 146.37919865032782,
+    "ScaledTimeAlive": 0.9060839742721452,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.03298633877355,
+    "TimeAlive": 132.6890780692681,
+    "ScaledTimeAlive": 0.8949355487051583,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.91581562404394,
+    "TimeAlive": 144.8845057379365,
+    "ScaledTimeAlive": 0.8340128842652392,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.45455099049865,
+    "TimeAlive": 114.97381188753516,
+    "ScaledTimeAlive": 0.9875267623208419,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.43635040390753,
+    "TimeAlive": 113.72804693415318,
+    "ScaledTimeAlive": 0.8107200724259095,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.3042674807644,
+    "TimeAlive": 104.81918001639733,
+    "ScaledTimeAlive": 0.93723647031867,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 81.84232616090078,
+    "TimeAlive": 109.2759982826476,
+    "ScaledTimeAlive": 0.9667217273382491,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 85.58799967323739,
+    "TimeAlive": 124.05317105497474,
+    "ScaledTimeAlive": 0.9125034771094335,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 83.71315976900445,
+    "TimeAlive": 127.99066479622455,
+    "ScaledTimeAlive": 0.9768051259088314,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.27541153339958,
+    "TimeAlive": 103.29953562237775,
+    "ScaledTimeAlive": 0.9356654463547042,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 83.8047315811645,
+    "TimeAlive": 113.66380122067253,
+    "ScaledTimeAlive": 0.8161869055475879,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.3763005777439,
+    "TimeAlive": 148.14691799549877,
+    "ScaledTimeAlive": 0.9413997178698826,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.66148882918375,
+    "TimeAlive": 108.38029625246966,
+    "ScaledTimeAlive": 0.9961731541344274,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.6357030750942,
+    "TimeAlive": 146.2714390976256,
+    "ScaledTimeAlive": 0.9119552473445685,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.52542843029663,
+    "TimeAlive": 131.97975988034005,
+    "ScaledTimeAlive": 0.8570828459485691,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.73963498504257,
+    "TimeAlive": 119.1195215649292,
+    "ScaledTimeAlive": 0.9830410191625649,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 97.31857273754406,
+    "TimeAlive": 127.99833203611183,
+    "ScaledTimeAlive": 0.8389420255426421,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.16964115630958,
+    "TimeAlive": 137.32589788407432,
+    "ScaledTimeAlive": 0.8194849952836925,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.97841608714789,
+    "TimeAlive": 121.71667469917946,
+    "ScaledTimeAlive": 0.927756394782012,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 83.68723783565729,
+    "TimeAlive": 121.95846632845158,
+    "ScaledTimeAlive": 0.9492637782675725,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.42888127974729,
+    "TimeAlive": 116.76490695947003,
+    "ScaledTimeAlive": 0.8138153906297471,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.78023109207702,
+    "TimeAlive": 139.67719473434636,
+    "ScaledTimeAlive": 0.9771738179638012,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.33374647144917,
+    "TimeAlive": 111.27325317050793,
+    "ScaledTimeAlive": 0.872225501875836,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.11390199104383,
+    "TimeAlive": 105.9667552525591,
+    "ScaledTimeAlive": 0.9790178581910667,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.228227042455,
+    "TimeAlive": 120.23261560584028,
+    "ScaledTimeAlive": 0.9130668243707394,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 97.28517957875098,
+    "TimeAlive": 122.04093765881399,
+    "ScaledTimeAlive": 0.8511150717686555,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.63575295583995,
+    "TimeAlive": 100.84466743435561,
+    "ScaledTimeAlive": 0.9964050337208261,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.17696089045984,
+    "TimeAlive": 143.96664622855212,
+    "ScaledTimeAlive": 0.8931852930792167,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 90.48760807633876,
+    "TimeAlive": 110.67396631180667,
+    "ScaledTimeAlive": 0.9179786971703753,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 81.5524766693483,
+    "TimeAlive": 130.3255671460892,
+    "ScaledTimeAlive": 0.8317691863849265,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.06840818065005,
+    "TimeAlive": 104.4997751999923,
+    "ScaledTimeAlive": 0.8788255130957406,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.93234870009725,
+    "TimeAlive": 114.15245596551621,
+    "ScaledTimeAlive": 0.837842995088829,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.85062662355514,
+    "TimeAlive": 130.33146079313505,
+    "ScaledTimeAlive": 0.9302184005574398,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.8825679415045,
+    "TimeAlive": 133.19024427590517,
+    "ScaledTimeAlive": 0.9657249879444234,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.41280400433072,
+    "TimeAlive": 146.7531022584978,
+    "ScaledTimeAlive": 0.8208334515985968,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.90843087580328,
+    "TimeAlive": 117.36470620645821,
+    "ScaledTimeAlive": 0.9188129092503908,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.44740681948197,
+    "TimeAlive": 124.5166301521665,
+    "ScaledTimeAlive": 0.8846470240041697,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.9077179389794,
+    "TimeAlive": 101.06824743778272,
+    "ScaledTimeAlive": 0.8030929801000551,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.10573488826726,
+    "TimeAlive": 104.39587346283638,
+    "ScaledTimeAlive": 0.8056921600823136,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 83.50935948188014,
+    "TimeAlive": 144.77736547057762,
+    "ScaledTimeAlive": 0.9648503736280762,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.31909813855063,
+    "TimeAlive": 135.31974636975232,
+    "ScaledTimeAlive": 0.8400020177299834,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 90.47255693600346,
+    "TimeAlive": 115.82479153277693,
+    "ScaledTimeAlive": 0.993840079054876,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.06873993602092,
+    "TimeAlive": 106.89237837332584,
+    "ScaledTimeAlive": 0.9946555123972685,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.73097053292132,
+    "TimeAlive": 109.92453670071288,
+    "ScaledTimeAlive": 0.9218371461334873,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 97.29178924560834,
+    "TimeAlive": 116.56065882923465,
+    "ScaledTimeAlive": 0.9403423949958795,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.03114482483008,
+    "TimeAlive": 124.08634293926606,
+    "ScaledTimeAlive": 0.862522908595289,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.48972967701553,
+    "TimeAlive": 145.02943141651778,
+    "ScaledTimeAlive": 0.8832707223112061,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.94960351932932,
+    "TimeAlive": 118.06202199867145,
+    "ScaledTimeAlive": 0.8703956116781361,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 97.2273854782774,
+    "TimeAlive": 145.8401963212943,
+    "ScaledTimeAlive": 0.8001687675961999,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.98098397480857,
+    "TimeAlive": 129.19644125552256,
+    "ScaledTimeAlive": 0.9103640518679725,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.72826260399918,
+    "TimeAlive": 102.16069687598157,
+    "ScaledTimeAlive": 0.9693643416559109,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.13770255744083,
+    "TimeAlive": 125.23677283453384,
+    "ScaledTimeAlive": 0.8126264463633919,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.51513954556123,
+    "TimeAlive": 100.559313287773,
+    "ScaledTimeAlive": 0.8097120329705114,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 83.30581092668885,
+    "TimeAlive": 120.26812374807207,
+    "ScaledTimeAlive": 0.8505775524040228,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.35436288327763,
+    "TimeAlive": 107.61915233441611,
+    "ScaledTimeAlive": 0.8820191129190093,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 88.15581762634147,
+    "TimeAlive": 137.2251757095658,
+    "ScaledTimeAlive": 0.831269550596904,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 87.69418943832744,
+    "TimeAlive": 118.99537960800504,
+    "ScaledTimeAlive": 0.8702533631409398,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.41240842073336,
+    "TimeAlive": 147.80283522559378,
+    "ScaledTimeAlive": 0.9725826688147106,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.97334188803731,
+    "TimeAlive": 121.18667083254394,
+    "ScaledTimeAlive": 0.9895743482474929,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.14044844236727,
+    "TimeAlive": 127.16803856494826,
+    "ScaledTimeAlive": 0.8650496678543255,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 88.59429096381463,
+    "TimeAlive": 121.49801369796393,
+    "ScaledTimeAlive": 0.9758204532657855,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.84364384625896,
+    "TimeAlive": 118.12805525187443,
+    "ScaledTimeAlive": 0.9683944883733038,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 95.64018421002277,
+    "TimeAlive": 142.95716829421622,
+    "ScaledTimeAlive": 0.8514302671276286,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 81.31645417438196,
+    "TimeAlive": 116.16559073063495,
+    "ScaledTimeAlive": 0.9204081472491688,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.18306192234532,
+    "TimeAlive": 122.07890731556651,
+    "ScaledTimeAlive": 0.8951923870187674,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 95.8672838311404,
+    "TimeAlive": 125.04963141700753,
+    "ScaledTimeAlive": 0.9138433660115468,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 97.68060882228676,
+    "TimeAlive": 141.89816122520693,
+    "ScaledTimeAlive": 0.8781734869933454,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.71809005251632,
+    "TimeAlive": 139.81054582659579,
+    "ScaledTimeAlive": 0.8101501747472745,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.8100150847167,
+    "TimeAlive": 119.87733742512573,
+    "ScaledTimeAlive": 0.8694567846928797,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.98280185981258,
+    "TimeAlive": 141.3730413775769,
+    "ScaledTimeAlive": 0.8466664500824945,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.4847560737652,
+    "TimeAlive": 135.55045705512478,
+    "ScaledTimeAlive": 0.9355392510929081,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.00354398828728,
+    "TimeAlive": 109.1385822151143,
+    "ScaledTimeAlive": 0.9861047551737336,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.66418376951766,
+    "TimeAlive": 112.96530518558842,
+    "ScaledTimeAlive": 0.8633587482016519,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.60181667693084,
+    "TimeAlive": 134.12682845649118,
+    "ScaledTimeAlive": 0.8756402706537458,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.59018687211004,
+    "TimeAlive": 135.07494179478186,
+    "ScaledTimeAlive": 0.838921911545526,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 88.53060707812483,
+    "TimeAlive": 106.1428525327056,
+    "ScaledTimeAlive": 0.8031254576677942,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.47821459559626,
+    "TimeAlive": 142.57299004847195,
+    "ScaledTimeAlive": 0.8664335392536441,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.28070527512136,
+    "TimeAlive": 125.30260087873198,
+    "ScaledTimeAlive": 0.9161592098932678,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.02170571574403,
+    "TimeAlive": 106.47205528975059,
+    "ScaledTimeAlive": 0.8156614177591708,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.07070136816706,
+    "TimeAlive": 137.20014400339733,
+    "ScaledTimeAlive": 0.8185294347785435,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 80.83259870999261,
+    "TimeAlive": 123.75648078547827,
+    "ScaledTimeAlive": 0.9684476029720925,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.52433368031359,
+    "TimeAlive": 144.68249636557817,
+    "ScaledTimeAlive": 0.8334225340501472,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.80450675396828,
+    "TimeAlive": 111.88966063626104,
+    "ScaledTimeAlive": 0.9644903198195472,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.46250202196366,
+    "TimeAlive": 141.1749416763309,
+    "ScaledTimeAlive": 0.9613604006761007,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.4674530231415,
+    "TimeAlive": 129.9112121783593,
+    "ScaledTimeAlive": 0.8929621181264533,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.64961630153957,
+    "TimeAlive": 107.72226116763701,
+    "ScaledTimeAlive": 0.9200417855356593,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.3394436336822,
+    "TimeAlive": 110.52249446982837,
+    "ScaledTimeAlive": 0.9519218693440226,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.6398745803808,
+    "TimeAlive": 132.22779937092378,
+    "ScaledTimeAlive": 0.8378751302324619,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 83.26170645733748,
+    "TimeAlive": 128.82243018210272,
+    "ScaledTimeAlive": 0.9573270691587729,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.48701491240745,
+    "TimeAlive": 124.84576504293437,
+    "ScaledTimeAlive": 0.8646078529759398,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.20433944167881,
+    "TimeAlive": 130.06316137161576,
+    "ScaledTimeAlive": 0.9010103533726493,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.74660727092551,
+    "TimeAlive": 137.3107163125694,
+    "ScaledTimeAlive": 0.9052008036782278,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.26225867979755,
+    "TimeAlive": 109.8952649667601,
+    "ScaledTimeAlive": 0.8472440693778613,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.37316177821171,
+    "TimeAlive": 120.36483130800701,
+    "ScaledTimeAlive": 0.8169912468390734,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.84690879667843,
+    "TimeAlive": 109.1699006724916,
+    "ScaledTimeAlive": 0.9316116579154088,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.10034934178285,
+    "TimeAlive": 137.79197310637483,
+    "ScaledTimeAlive": 0.8246381272589207,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.94996596120578,
+    "TimeAlive": 117.12205593974234,
+    "ScaledTimeAlive": 0.9422221961332296,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 97.5948029422479,
+    "TimeAlive": 149.14915970289275,
+    "ScaledTimeAlive": 0.9683232517111906,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.59240689260214,
+    "TimeAlive": 133.56697479630827,
+    "ScaledTimeAlive": 0.9711370741072182,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 97.39531379925792,
+    "TimeAlive": 108.61117286535988,
+    "ScaledTimeAlive": 0.8317852629454212,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 85.17947690799144,
+    "TimeAlive": 110.93265184699139,
+    "ScaledTimeAlive": 0.8340051793942569,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.4925727343443,
+    "TimeAlive": 130.62707811879505,
+    "ScaledTimeAlive": 0.8078257478295056,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.21264483556486,
+    "TimeAlive": 133.29352199655142,
+    "ScaledTimeAlive": 0.9430022275470027,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 88.72954440842832,
+    "TimeAlive": 148.28326201461977,
+    "ScaledTimeAlive": 0.8514935867326314,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 96.10202482644439,
+    "TimeAlive": 111.04010849974641,
+    "ScaledTimeAlive": 0.9216021980683797,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.86344135740461,
+    "TimeAlive": 132.5781139976728,
+    "ScaledTimeAlive": 0.916451849443352,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.56763280740734,
+    "TimeAlive": 139.2901595020146,
+    "ScaledTimeAlive": 0.9525295253208309,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.02835892661655,
+    "TimeAlive": 131.9515210493069,
+    "ScaledTimeAlive": 0.8877861295289605,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.47136779671371,
+    "TimeAlive": 143.22877431386127,
+    "ScaledTimeAlive": 0.9863670269148038,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.18535108178033,
+    "TimeAlive": 133.06460359796316,
+    "ScaledTimeAlive": 0.9176649625259091,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 90.62136438131016,
+    "TimeAlive": 134.96003388568857,
+    "ScaledTimeAlive": 0.8391842342144971,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 87.44779067907517,
+    "TimeAlive": 147.9849394750395,
+    "ScaledTimeAlive": 0.9898993343572875,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.70300262754529,
+    "TimeAlive": 116.69438986868441,
+    "ScaledTimeAlive": 0.9479661389978078,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 99.85882512561881,
+    "TimeAlive": 149.96885165747443,
+    "ScaledTimeAlive": 0.8712130973053328,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.9087559362015,
+    "TimeAlive": 106.00850688462508,
+    "ScaledTimeAlive": 0.8361860454533683,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.44477089791157,
+    "TimeAlive": 106.5848927377308,
+    "ScaledTimeAlive": 0.9027134843518156,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.71996979251091,
+    "TimeAlive": 136.24351368232473,
+    "ScaledTimeAlive": 0.8020658309557787,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 99.09192093920765,
+    "TimeAlive": 114.87742274047271,
+    "ScaledTimeAlive": 0.8143352735129268,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.4300962848807,
+    "TimeAlive": 110.65636940369453,
+    "ScaledTimeAlive": 0.9712113712101476,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 96.83686600589681,
+    "TimeAlive": 110.08310658003373,
+    "ScaledTimeAlive": 0.878277954932324,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.79745216132021,
+    "TimeAlive": 110.22147604426367,
+    "ScaledTimeAlive": 0.9088859442003013,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.02859581684953,
+    "TimeAlive": 124.8238504532972,
+    "ScaledTimeAlive": 0.8309041594441027,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.08313040481015,
+    "TimeAlive": 129.05094147414414,
+    "ScaledTimeAlive": 0.8882576946817383,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.16736603300143,
+    "TimeAlive": 108.75087379094956,
+    "ScaledTimeAlive": 0.868017657384318,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.47109706236584,
+    "TimeAlive": 104.89732163141498,
+    "ScaledTimeAlive": 0.8956376363757346,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 97.00490052027338,
+    "TimeAlive": 137.9602677952737,
+    "ScaledTimeAlive": 0.9198876007160759,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.66737234636709,
+    "TimeAlive": 109.613955784536,
+    "ScaledTimeAlive": 0.8017065821683274,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 90.9842905275289,
+    "TimeAlive": 145.98161077137087,
+    "ScaledTimeAlive": 0.8251171336638773,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.19543994101352,
+    "TimeAlive": 131.1596658956641,
+    "ScaledTimeAlive": 0.8062265230023348,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.69115900984166,
+    "TimeAlive": 144.83467823081025,
+    "ScaledTimeAlive": 0.97506019975912,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.37892839553946,
+    "TimeAlive": 125.41141347687687,
+    "ScaledTimeAlive": 0.8619652830030997,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.92971734708641,
+    "TimeAlive": 145.37783821173397,
+    "ScaledTimeAlive": 0.8171542544913818,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.94672797583252,
+    "TimeAlive": 121.5255696551629,
+    "ScaledTimeAlive": 0.8154096097442745,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.16365659755256,
+    "TimeAlive": 141.05308238079823,
+    "ScaledTimeAlive": 0.8239046432236982,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 96.67811555150561,
+    "TimeAlive": 121.47324763233311,
+    "ScaledTimeAlive": 0.946586751374959,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.24386356030479,
+    "TimeAlive": 144.48587882078655,
+    "ScaledTimeAlive": 0.9705213036807488,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 83.76132942258494,
+    "TimeAlive": 142.67894384057433,
+    "ScaledTimeAlive": 0.9898923391857227,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.4053251966268,
+    "TimeAlive": 135.01925248321413,
+    "ScaledTimeAlive": 0.9726053144196486,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 97.97783964945205,
+    "TimeAlive": 108.34094583540463,
+    "ScaledTimeAlive": 0.9990128819138647,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 81.77072647679861,
+    "TimeAlive": 140.20596608443586,
+    "ScaledTimeAlive": 0.8197416215542827,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.86257214906385,
+    "TimeAlive": 144.08349913491483,
+    "ScaledTimeAlive": 0.8871901586311095,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.2287403070502,
+    "TimeAlive": 139.71638423020988,
+    "ScaledTimeAlive": 0.9238349183186849,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.50508875613554,
+    "TimeAlive": 122.10092374031447,
+    "ScaledTimeAlive": 0.9237752464315955,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.31206522351607,
+    "TimeAlive": 102.64281748476768,
+    "ScaledTimeAlive": 0.9995481884245485,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 97.45978797452437,
+    "TimeAlive": 108.98292558416722,
+    "ScaledTimeAlive": 0.965341923106126,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.95814997818167,
+    "TimeAlive": 138.0385114458238,
+    "ScaledTimeAlive": 0.9324473429108835,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 80.62394710844822,
+    "TimeAlive": 143.83531522681707,
+    "ScaledTimeAlive": 0.9529916021105233,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.27731927920225,
+    "TimeAlive": 126.67852988790811,
+    "ScaledTimeAlive": 0.8627797250234772,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.48034132397467,
+    "TimeAlive": 124.90651977653482,
+    "ScaledTimeAlive": 0.9135808192669771,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.51652159622375,
+    "TimeAlive": 124.89375558145923,
+    "ScaledTimeAlive": 0.813611288263614,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.95340103970119,
+    "TimeAlive": 102.18200019330423,
+    "ScaledTimeAlive": 0.992958220447361,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.95467686380192,
+    "TimeAlive": 141.2183836509335,
+    "ScaledTimeAlive": 0.8646579865538664,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.19381157180023,
+    "TimeAlive": 112.40730058835105,
+    "ScaledTimeAlive": 0.8923030286351381,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.29799545956182,
+    "TimeAlive": 122.11064732479515,
+    "ScaledTimeAlive": 0.9625443653889567,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.63811981283685,
+    "TimeAlive": 115.6794518666842,
+    "ScaledTimeAlive": 0.8249004724974667,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 80.96732937976581,
+    "TimeAlive": 149.11008749371493,
+    "ScaledTimeAlive": 0.9350460848577223,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.89727647045929,
+    "TimeAlive": 109.77072606079741,
+    "ScaledTimeAlive": 0.870302636737236,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.79820989473568,
+    "TimeAlive": 140.1631445938231,
+    "ScaledTimeAlive": 0.9069926683928646,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.83046937131401,
+    "TimeAlive": 126.78129611258632,
+    "ScaledTimeAlive": 0.9287426247927809,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.58408143549696,
+    "TimeAlive": 133.06155807585114,
+    "ScaledTimeAlive": 0.80442967189986,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 90.70230832083742,
+    "TimeAlive": 123.10252736260149,
+    "ScaledTimeAlive": 0.8764399963823681,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.56426200352047,
+    "TimeAlive": 108.83462580703068,
+    "ScaledTimeAlive": 0.9264094379217257,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.70619636904442,
+    "TimeAlive": 143.9511095478191,
+    "ScaledTimeAlive": 0.8139331316412426,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 80.46130033496776,
+    "TimeAlive": 126.39739750230068,
+    "ScaledTimeAlive": 0.8827678882815333,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 87.25336067537121,
+    "TimeAlive": 105.78926107300884,
+    "ScaledTimeAlive": 0.9722079873223429,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 81.3293667563977,
+    "TimeAlive": 145.42185407664397,
+    "ScaledTimeAlive": 0.9711481343422405,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 80.97414877787617,
+    "TimeAlive": 112.35514643079408,
+    "ScaledTimeAlive": 0.8737501044118012,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.33222501159538,
+    "TimeAlive": 103.55703942664046,
+    "ScaledTimeAlive": 0.8083511019067885,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.24014493506778,
+    "TimeAlive": 109.75192433366503,
+    "ScaledTimeAlive": 0.9722295685437334,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 97.50528043641276,
+    "TimeAlive": 103.40083985078698,
+    "ScaledTimeAlive": 0.8125382374593118,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.3719222653607,
+    "TimeAlive": 137.7121757096172,
+    "ScaledTimeAlive": 0.8295463691761421,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.9968410019283,
+    "TimeAlive": 106.28770332573006,
+    "ScaledTimeAlive": 0.8289758418904063,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.91068025527892,
+    "TimeAlive": 105.26090738276949,
+    "ScaledTimeAlive": 0.8117065864796362,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.92564549855896,
+    "TimeAlive": 120.19815781983351,
+    "ScaledTimeAlive": 0.8684573123986106,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.42862455145938,
+    "TimeAlive": 146.32420458972672,
+    "ScaledTimeAlive": 0.9029073262905065,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 83.77380993975017,
+    "TimeAlive": 105.25713645767678,
+    "ScaledTimeAlive": 0.9458785368599892,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.49999836491295,
+    "TimeAlive": 117.44065470126782,
+    "ScaledTimeAlive": 0.9715528679473313,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.43382547844973,
+    "TimeAlive": 112.4559528185238,
+    "ScaledTimeAlive": 0.8134611199832453,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.12300308119319,
+    "TimeAlive": 101.86946300331977,
+    "ScaledTimeAlive": 0.8129427841424033,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.62896018391412,
+    "TimeAlive": 119.16213640805866,
+    "ScaledTimeAlive": 0.9726378876369429,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.3287127955806,
+    "TimeAlive": 127.56468120197451,
+    "ScaledTimeAlive": 0.9913663548087697,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.8776045998123,
+    "TimeAlive": 143.6231721432274,
+    "ScaledTimeAlive": 0.8634371037808686,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.38704643272801,
+    "TimeAlive": 114.47904285984106,
+    "ScaledTimeAlive": 0.8621194727728719,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.13550679341832,
+    "TimeAlive": 103.45301579433385,
+    "ScaledTimeAlive": 0.8366983648509636,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 83.26979655088306,
+    "TimeAlive": 127.20189070584075,
+    "ScaledTimeAlive": 0.8806296000738255,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.77279815172135,
+    "TimeAlive": 129.78204065496146,
+    "ScaledTimeAlive": 0.9950251630912648,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 81.3256693866553,
+    "TimeAlive": 101.14554159565863,
+    "ScaledTimeAlive": 0.9249350657857797,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.9384284399549,
+    "TimeAlive": 117.43687534413239,
+    "ScaledTimeAlive": 0.9013259323905669,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.09016884426784,
+    "TimeAlive": 106.2628195951075,
+    "ScaledTimeAlive": 0.8897173373711742,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.31466926019668,
+    "TimeAlive": 114.4086429331524,
+    "ScaledTimeAlive": 0.8004248271900797,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 95.6699416221864,
+    "TimeAlive": 110.60804670292924,
+    "ScaledTimeAlive": 0.9556947601857699,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 97.1685426487259,
+    "TimeAlive": 137.07946633955274,
+    "ScaledTimeAlive": 0.9829772581746289,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.27736471771365,
+    "TimeAlive": 125.97930552927548,
+    "ScaledTimeAlive": 0.9536950558360258,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 88.68359302722502,
+    "TimeAlive": 144.72426482185628,
+    "ScaledTimeAlive": 0.9834938411982962,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 81.03858696692558,
+    "TimeAlive": 119.6653049667043,
+    "ScaledTimeAlive": 0.952567623046244,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.6901931046117,
+    "TimeAlive": 121.80782879139744,
+    "ScaledTimeAlive": 0.9416335470863252,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 97.69276964347138,
+    "TimeAlive": 128.29884878541438,
+    "ScaledTimeAlive": 0.9826703702502355,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.892295490555,
+    "TimeAlive": 140.81602386471477,
+    "ScaledTimeAlive": 0.853282426357552,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.60046401844703,
+    "TimeAlive": 146.11102325152387,
+    "ScaledTimeAlive": 0.9181476324359346,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 83.49536000601319,
+    "TimeAlive": 143.14231035385524,
+    "ScaledTimeAlive": 0.8282085083544276,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.93861154478343,
+    "TimeAlive": 138.2896379514724,
+    "ScaledTimeAlive": 0.8818448577868874,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.98081666913959,
+    "TimeAlive": 109.70702353976486,
+    "ScaledTimeAlive": 0.9474927681794785,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.94814002539101,
+    "TimeAlive": 129.010225900698,
+    "ScaledTimeAlive": 0.862591081120072,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 96.83006660158959,
+    "TimeAlive": 112.48875082733285,
+    "ScaledTimeAlive": 0.857633053485404,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.33658126979067,
+    "TimeAlive": 135.1407338607445,
+    "ScaledTimeAlive": 0.898691851206454,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.07845724586372,
+    "TimeAlive": 128.71471971208612,
+    "ScaledTimeAlive": 0.8110052111959456,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.26697503618375,
+    "TimeAlive": 147.28237817827716,
+    "ScaledTimeAlive": 0.977391749850775,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.0632308884249,
+    "TimeAlive": 126.45773512714257,
+    "ScaledTimeAlive": 0.8406471348407403,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 87.74459410826552,
+    "TimeAlive": 146.4901229126545,
+    "ScaledTimeAlive": 0.9268858985055803,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 81.15239062374485,
+    "TimeAlive": 119.32699318637438,
+    "ScaledTimeAlive": 0.9053533153553868,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.34454101625104,
+    "TimeAlive": 139.3559343130641,
+    "ScaledTimeAlive": 0.8852306247777088,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.09615921681751,
+    "TimeAlive": 108.78396694096982,
+    "ScaledTimeAlive": 0.9313784649161571,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 81.93168980084204,
+    "TimeAlive": 147.77515516817135,
+    "ScaledTimeAlive": 0.8781623662381381,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.28455572170907,
+    "TimeAlive": 102.56933847863108,
+    "ScaledTimeAlive": 0.8651498863574467,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.30995289163994,
+    "TimeAlive": 144.41937086568538,
+    "ScaledTimeAlive": 0.9407281139416499,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.69493507650114,
+    "TimeAlive": 130.39184593392451,
+    "ScaledTimeAlive": 0.9769448753013513,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.56898645499183,
+    "TimeAlive": 109.20166537732564,
+    "ScaledTimeAlive": 0.8160243351261068,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.42641128112952,
+    "TimeAlive": 109.95617875551041,
+    "ScaledTimeAlive": 0.9065178585204858,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.7487435688474,
+    "TimeAlive": 120.52309431982178,
+    "ScaledTimeAlive": 0.8636201596651206,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.79043190449619,
+    "TimeAlive": 122.32456715404024,
+    "ScaledTimeAlive": 0.8879020748209103,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.6718845733393,
+    "TimeAlive": 115.51629393158031,
+    "ScaledTimeAlive": 0.9397124708849677,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.80132132233679,
+    "TimeAlive": 147.97571345336928,
+    "ScaledTimeAlive": 0.9580772875241327,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.60418518893087,
+    "TimeAlive": 101.79176120036765,
+    "ScaledTimeAlive": 0.8607414843018981,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 83.44537491425646,
+    "TimeAlive": 128.96977451029275,
+    "ScaledTimeAlive": 0.8441489707965416,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.61103617265367,
+    "TimeAlive": 105.33251042088398,
+    "ScaledTimeAlive": 0.8427188733459985,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.08480429473437,
+    "TimeAlive": 137.210504080541,
+    "ScaledTimeAlive": 0.9402695681307154,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.63514501714475,
+    "TimeAlive": 125.34239242771096,
+    "ScaledTimeAlive": 0.8256001050017556,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.17307765194585,
+    "TimeAlive": 109.28867852298048,
+    "ScaledTimeAlive": 0.9902802786870222,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.2312082227906,
+    "TimeAlive": 135.5954644337917,
+    "ScaledTimeAlive": 0.8462090873412151,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.30502397227677,
+    "TimeAlive": 132.79639538024358,
+    "ScaledTimeAlive": 0.803152308996355,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 80.11499035365453,
+    "TimeAlive": 134.91362652707608,
+    "ScaledTimeAlive": 0.9491883483244419,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.9739141432726,
+    "TimeAlive": 126.41704890756776,
+    "ScaledTimeAlive": 0.8305789897937887,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.69702848194308,
+    "TimeAlive": 115.17355048055268,
+    "ScaledTimeAlive": 0.8366743252179807,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.37245516719987,
+    "TimeAlive": 109.265217008461,
+    "ScaledTimeAlive": 0.8136256390503903,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.6119759433461,
+    "TimeAlive": 118.32131023786926,
+    "ScaledTimeAlive": 0.8846304209036494,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.83496989912578,
+    "TimeAlive": 119.10529067568436,
+    "ScaledTimeAlive": 0.9515004270683317,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.86209283198644,
+    "TimeAlive": 136.4718088362717,
+    "ScaledTimeAlive": 0.9816090511460227,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.81564229329058,
+    "TimeAlive": 130.90017651534797,
+    "ScaledTimeAlive": 0.9973544609817266,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 95.24038875293124,
+    "TimeAlive": 102.60653383861944,
+    "ScaledTimeAlive": 0.812497063317619,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 99.60910592835089,
+    "TimeAlive": 113.48797062968636,
+    "ScaledTimeAlive": 0.832071335822621,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.02724309622633,
+    "TimeAlive": 137.85799876770463,
+    "ScaledTimeAlive": 0.9173448314942017,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 90.68766458879128,
+    "TimeAlive": 131.48835854283027,
+    "ScaledTimeAlive": 0.9282104294797631,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.26593469860715,
+    "TimeAlive": 139.41822516551886,
+    "ScaledTimeAlive": 0.9351546927671449,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 97.35232255795671,
+    "TimeAlive": 103.73259225985504,
+    "ScaledTimeAlive": 0.9512528106489688,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.3377322569344,
+    "TimeAlive": 124.98619994714083,
+    "ScaledTimeAlive": 0.8005845407089741,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.19178687780663,
+    "TimeAlive": 118.37448315589438,
+    "ScaledTimeAlive": 0.929987498228318,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.67640586438435,
+    "TimeAlive": 138.35713305912657,
+    "ScaledTimeAlive": 0.9005619733232336,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 85.8974542099016,
+    "TimeAlive": 133.1836782863629,
+    "ScaledTimeAlive": 0.8455772373617264,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 90.02995757003103,
+    "TimeAlive": 147.69795700365995,
+    "ScaledTimeAlive": 0.8008254990610569,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.79528904608978,
+    "TimeAlive": 123.45440589711028,
+    "ScaledTimeAlive": 0.8331683996267271,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.69466424833621,
+    "TimeAlive": 126.56802000575536,
+    "ScaledTimeAlive": 0.883648525907253,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.18916366583957,
+    "TimeAlive": 100.21251053624272,
+    "ScaledTimeAlive": 0.8707793034588037,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 99.43041419963014,
+    "TimeAlive": 136.4605493659525,
+    "ScaledTimeAlive": 0.8270969996050844,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.33995394040957,
+    "TimeAlive": 101.89652679083007,
+    "ScaledTimeAlive": 0.8536790391247283,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 90.22323250206496,
+    "TimeAlive": 117.1655876468511,
+    "ScaledTimeAlive": 0.8441441252906523,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.67592842403815,
+    "TimeAlive": 140.41828899476081,
+    "ScaledTimeAlive": 0.9897579663407711,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.3513537259098,
+    "TimeAlive": 122.67859166294447,
+    "ScaledTimeAlive": 0.8443827604104672,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.22881763339502,
+    "TimeAlive": 111.47206020004884,
+    "ScaledTimeAlive": 0.9469168940176185,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.50703116313437,
+    "TimeAlive": 108.21600683703328,
+    "ScaledTimeAlive": 0.8074426562036909,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 90.7375664701935,
+    "TimeAlive": 146.92178925291535,
+    "ScaledTimeAlive": 0.8704185007593064,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.69148371119003,
+    "TimeAlive": 107.0307345283379,
+    "ScaledTimeAlive": 0.9753274212129935,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.81671025077326,
+    "TimeAlive": 125.638239510635,
+    "ScaledTimeAlive": 0.9453586841563845,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.06766104442194,
+    "TimeAlive": 105.45610423094178,
+    "ScaledTimeAlive": 0.8939271366308038,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 84.69751012003013,
+    "TimeAlive": 147.61428768828307,
+    "ScaledTimeAlive": 0.8154355678439705,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.68199916583113,
+    "TimeAlive": 112.82041642524851,
+    "ScaledTimeAlive": 0.9491153045855281,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 85.87100224465674,
+    "TimeAlive": 110.92320831343791,
+    "ScaledTimeAlive": 0.8503315300091657,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.13483843175268,
+    "TimeAlive": 124.55651714846186,
+    "ScaledTimeAlive": 0.9102421610169186,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.94649883214072,
+    "TimeAlive": 103.79767486734971,
+    "ScaledTimeAlive": 0.8757157597334548,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 80.01142421846352,
+    "TimeAlive": 125.30843363495066,
+    "ScaledTimeAlive": 0.8560028360201434,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 81.39552624834081,
+    "TimeAlive": 107.16354510967851,
+    "ScaledTimeAlive": 0.8370533633334908,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.57968886769972,
+    "TimeAlive": 102.7718131274901,
+    "ScaledTimeAlive": 0.8991221607433721,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.55775511274996,
+    "TimeAlive": 112.69859137868741,
+    "ScaledTimeAlive": 0.8158020826822776,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.2815973541799,
+    "TimeAlive": 127.02118892458698,
+    "ScaledTimeAlive": 0.8356068695101313,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.73489068626775,
+    "TimeAlive": 101.60572024721121,
+    "ScaledTimeAlive": 0.9095145110836422,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 97.85672388183355,
+    "TimeAlive": 104.22986953996406,
+    "ScaledTimeAlive": 0.8286742586051362,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 97.64998360792583,
+    "TimeAlive": 133.91992999616386,
+    "ScaledTimeAlive": 0.9514931786385045,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.24928611836476,
+    "TimeAlive": 134.62253481829336,
+    "ScaledTimeAlive": 0.9395837179811164,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.89189732263011,
+    "TimeAlive": 133.63524430013155,
+    "ScaledTimeAlive": 0.8474537214000333,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 83.4768570845979,
+    "TimeAlive": 136.364587948135,
+    "ScaledTimeAlive": 0.8664344809469156,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.17258637245844,
+    "TimeAlive": 116.84864996792426,
+    "ScaledTimeAlive": 0.826775423573595,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.43283893203723,
+    "TimeAlive": 129.68807380728964,
+    "ScaledTimeAlive": 0.907240854967719,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 88.89533952625337,
+    "TimeAlive": 105.86431036730016,
+    "ScaledTimeAlive": 0.9864933359828071,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.06141500436924,
+    "TimeAlive": 127.70317448578143,
+    "ScaledTimeAlive": 0.8080981245653469,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.19135892649699,
+    "TimeAlive": 135.8715513804657,
+    "ScaledTimeAlive": 0.8216193775238401,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.35176044847833,
+    "TimeAlive": 136.53142902745842,
+    "ScaledTimeAlive": 0.9286901133041626,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.4130673245155,
+    "TimeAlive": 118.9662134590643,
+    "ScaledTimeAlive": 0.9754004752445369,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 83.54193742831258,
+    "TimeAlive": 143.15798503087328,
+    "ScaledTimeAlive": 0.8143460727146545,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.58725595770586,
+    "TimeAlive": 148.18774638255888,
+    "ScaledTimeAlive": 0.9633181712854699,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 99.83638120229875,
+    "TimeAlive": 108.12979363831695,
+    "ScaledTimeAlive": 0.905039665538113,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.6171288841845,
+    "TimeAlive": 106.68369511153799,
+    "ScaledTimeAlive": 0.9776927029609208,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.89565973082674,
+    "TimeAlive": 108.88610021777238,
+    "ScaledTimeAlive": 0.8242001079701881,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.39465607056059,
+    "TimeAlive": 122.95121576304884,
+    "ScaledTimeAlive": 0.9336146852867351,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.1997839550244,
+    "TimeAlive": 140.51790398283535,
+    "ScaledTimeAlive": 0.927739354011436,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.17634225239638,
+    "TimeAlive": 148.77741880298805,
+    "ScaledTimeAlive": 0.9804756239897046,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.59010628884563,
+    "TimeAlive": 120.36455023943174,
+    "ScaledTimeAlive": 0.8070494427568619,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.4849495078362,
+    "TimeAlive": 106.66312920339931,
+    "ScaledTimeAlive": 0.9005564493783542,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.71266151832408,
+    "TimeAlive": 148.09348865130596,
+    "ScaledTimeAlive": 0.9403006734636665,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.6348499746217,
+    "TimeAlive": 133.4524764018737,
+    "ScaledTimeAlive": 0.9506687170675585,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.80212687041,
+    "TimeAlive": 146.4918841469348,
+    "ScaledTimeAlive": 0.9048379593445269,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.05319811406859,
+    "TimeAlive": 114.31706620678793,
+    "ScaledTimeAlive": 0.8166921465932206,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.38018483660687,
+    "TimeAlive": 139.88146326157266,
+    "ScaledTimeAlive": 0.9254069252488826,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.52691262092308,
+    "TimeAlive": 122.76204612334925,
+    "ScaledTimeAlive": 0.9386802973073421,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 96.19005899910945,
+    "TimeAlive": 141.7038691609316,
+    "ScaledTimeAlive": 0.9585331094131009,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.5070043777246,
+    "TimeAlive": 130.03869934397565,
+    "ScaledTimeAlive": 0.9237767750861631,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.5130404645096,
+    "TimeAlive": 114.46981825159654,
+    "ScaledTimeAlive": 0.9047824790506992,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.49485558588945,
+    "TimeAlive": 142.1551735163061,
+    "ScaledTimeAlive": 0.8225906347587322,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.56443806711378,
+    "TimeAlive": 123.98620809557673,
+    "ScaledTimeAlive": 0.9434583325561371,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.15485684315944,
+    "TimeAlive": 122.81818312731384,
+    "ScaledTimeAlive": 0.8715675635983573,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.62087775107905,
+    "TimeAlive": 136.92502607282978,
+    "ScaledTimeAlive": 0.9033410568182889,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.80241217461908,
+    "TimeAlive": 113.118926660776,
+    "ScaledTimeAlive": 0.9735553555026579,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.97815353423026,
+    "TimeAlive": 120.65598566200734,
+    "ScaledTimeAlive": 0.8103418600254049,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.90378102299596,
+    "TimeAlive": 107.04630529104095,
+    "ScaledTimeAlive": 0.8372602871144829,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 99.40060412093642,
+    "TimeAlive": 117.97221471273664,
+    "ScaledTimeAlive": 0.8373303321191343,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 96.28962670980029,
+    "TimeAlive": 148.73689491496668,
+    "ScaledTimeAlive": 0.8022561676841083,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 99.92938240229648,
+    "TimeAlive": 121.62100056377975,
+    "ScaledTimeAlive": 0.8477988535834439,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.1579644000891,
+    "TimeAlive": 141.09976458041254,
+    "ScaledTimeAlive": 0.8281906021111721,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.04313174396404,
+    "TimeAlive": 127.63554786329527,
+    "ScaledTimeAlive": 0.8568754307048533,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.90011945959574,
+    "TimeAlive": 130.58769235560624,
+    "ScaledTimeAlive": 0.8971168794250023,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 83.4638995020086,
+    "TimeAlive": 134.98764550561924,
+    "ScaledTimeAlive": 0.9911986878884398,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.61008003524908,
+    "TimeAlive": 139.86344406521584,
+    "ScaledTimeAlive": 0.8194297139981742,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.53452820486955,
+    "TimeAlive": 111.59623576816585,
+    "ScaledTimeAlive": 0.9001091950586175,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.3596050334019,
+    "TimeAlive": 101.36559788483,
+    "ScaledTimeAlive": 0.8345754210410885,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.92777145379581,
+    "TimeAlive": 133.08659093572427,
+    "ScaledTimeAlive": 0.8452987643935499,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.08513692245151,
+    "TimeAlive": 137.7329528396302,
+    "ScaledTimeAlive": 0.8439507736945804,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.02635821684102,
+    "TimeAlive": 111.76105545022287,
+    "ScaledTimeAlive": 0.9039241605351821,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.08974156558946,
+    "TimeAlive": 105.36359858057212,
+    "ScaledTimeAlive": 0.9162660180845797,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.11449902189591,
+    "TimeAlive": 142.7888389683144,
+    "ScaledTimeAlive": 0.9579223069851914,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 90.01482009948143,
+    "TimeAlive": 108.07539109875846,
+    "ScaledTimeAlive": 0.8269930331913112,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.39354241154443,
+    "TimeAlive": 142.91878201243964,
+    "ScaledTimeAlive": 0.9460613072014951,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.18413568503193,
+    "TimeAlive": 129.1371605103185,
+    "ScaledTimeAlive": 0.8831286478992526,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.45408312893788,
+    "TimeAlive": 116.10123967148554,
+    "ScaledTimeAlive": 0.8817897330289712,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.54252246410945,
+    "TimeAlive": 117.25242883316037,
+    "ScaledTimeAlive": 0.8854013914181814,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 81.66373359273592,
+    "TimeAlive": 101.37188616813553,
+    "ScaledTimeAlive": 0.9107512111790008,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.14840570689294,
+    "TimeAlive": 118.7030803200276,
+    "ScaledTimeAlive": 0.9123685600124121,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.58916457353928,
+    "TimeAlive": 137.87520990001488,
+    "ScaledTimeAlive": 0.8563412377611255,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.83503615821579,
+    "TimeAlive": 119.96135179055761,
+    "ScaledTimeAlive": 0.9139573681153911,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 80.55144758728235,
+    "TimeAlive": 145.3928516123665,
+    "ScaledTimeAlive": 0.9093426147711555,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.08387806664625,
+    "TimeAlive": 149.4303811674938,
+    "ScaledTimeAlive": 0.9443690819526913,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 96.50148043559233,
+    "TimeAlive": 118.61927191160366,
+    "ScaledTimeAlive": 0.9006685824570364,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.68643967632562,
+    "TimeAlive": 100.07422356740777,
+    "ScaledTimeAlive": 0.8406504769101002,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.70459576255442,
+    "TimeAlive": 118.64383490347694,
+    "ScaledTimeAlive": 0.8201661456447559,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.49463215367545,
+    "TimeAlive": 111.85111597698514,
+    "ScaledTimeAlive": 0.8567607845454349,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.56945547724888,
+    "TimeAlive": 135.65234115477645,
+    "ScaledTimeAlive": 0.9897983917187102,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.73049895243697,
+    "TimeAlive": 114.5521657757517,
+    "ScaledTimeAlive": 0.8341051317451578,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.88843421622357,
+    "TimeAlive": 120.05351904002686,
+    "ScaledTimeAlive": 0.8407531185695291,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.00461566232431,
+    "TimeAlive": 148.65561363469266,
+    "ScaledTimeAlive": 0.9763505898340623,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 95.01630906729577,
+    "TimeAlive": 126.14453821433727,
+    "ScaledTimeAlive": 0.8816618574253777,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.26120500600432,
+    "TimeAlive": 106.04045656619418,
+    "ScaledTimeAlive": 0.802680233333881,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.74440184145045,
+    "TimeAlive": 139.90929048364075,
+    "ScaledTimeAlive": 0.9007170907616109,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.10805023839585,
+    "TimeAlive": 109.25800714420673,
+    "ScaledTimeAlive": 0.9073471909726198,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.66632185947236,
+    "TimeAlive": 114.7287617531842,
+    "ScaledTimeAlive": 0.8636801176359337,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.11373326998347,
+    "TimeAlive": 130.88107519667955,
+    "ScaledTimeAlive": 0.8403762088824106,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.27977996326419,
+    "TimeAlive": 148.9721792360434,
+    "ScaledTimeAlive": 0.9607287305333996,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 80.13253386914965,
+    "TimeAlive": 124.23006813765609,
+    "ScaledTimeAlive": 0.915742849937712,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.29644150822854,
+    "TimeAlive": 127.50798500788096,
+    "ScaledTimeAlive": 0.8329346294094214,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.708141571844,
+    "TimeAlive": 107.92947664580623,
+    "ScaledTimeAlive": 0.8480179354144183,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 97.46981048355855,
+    "TimeAlive": 129.10083120238596,
+    "ScaledTimeAlive": 0.9926984177996614,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 84.22258873724957,
+    "TimeAlive": 143.32199459811113,
+    "ScaledTimeAlive": 0.9427385790492268,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.6125329099769,
+    "TimeAlive": 106.92596886145128,
+    "ScaledTimeAlive": 0.9810720306880907,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.87734973650862,
+    "TimeAlive": 145.33235520147133,
+    "ScaledTimeAlive": 0.8295737293311655,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.40234544808673,
+    "TimeAlive": 128.59522740115864,
+    "ScaledTimeAlive": 0.9460802293222772,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.55921850287581,
+    "TimeAlive": 114.57112646731576,
+    "ScaledTimeAlive": 0.8784015854273985,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.55960801130013,
+    "TimeAlive": 104.72882776479551,
+    "ScaledTimeAlive": 0.8060366961068578,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.52080647946173,
+    "TimeAlive": 139.52668765159902,
+    "ScaledTimeAlive": 0.9267689240682935,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.87591855936552,
+    "TimeAlive": 110.27747325347192,
+    "ScaledTimeAlive": 0.9230176796204446,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 83.74919289630026,
+    "TimeAlive": 123.409196370424,
+    "ScaledTimeAlive": 0.8232452862754019,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 84.21218043396692,
+    "TimeAlive": 141.28672949994055,
+    "ScaledTimeAlive": 0.8408221664090536,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 87.65721704640777,
+    "TimeAlive": 143.99616865603036,
+    "ScaledTimeAlive": 0.810058650822147,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.6288543993781,
+    "TimeAlive": 109.19771550780474,
+    "ScaledTimeAlive": 0.9701265875708948,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.97874295414479,
+    "TimeAlive": 138.91484442457138,
+    "ScaledTimeAlive": 0.9843548362873005,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.82473715153897,
+    "TimeAlive": 144.94151641000158,
+    "ScaledTimeAlive": 0.9283699216427731,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.36489814259761,
+    "TimeAlive": 100.91484252323744,
+    "ScaledTimeAlive": 0.9931707967253572,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.57016557030084,
+    "TimeAlive": 115.19475221322446,
+    "ScaledTimeAlive": 0.8956956448533645,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 88.86806424697058,
+    "TimeAlive": 140.62971033572578,
+    "ScaledTimeAlive": 0.8769201802356851,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.932641665504,
+    "TimeAlive": 127.93800253623245,
+    "ScaledTimeAlive": 0.864785006215835,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 97.21387633689203,
+    "TimeAlive": 149.34531255732966,
+    "ScaledTimeAlive": 0.8239132074079711,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 84.50628465607407,
+    "TimeAlive": 102.48767522219815,
+    "ScaledTimeAlive": 0.8149214842830773,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.2878167296585,
+    "TimeAlive": 127.40964215820857,
+    "ScaledTimeAlive": 0.8944902173460048,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.09825587197247,
+    "TimeAlive": 138.0365374685106,
+    "ScaledTimeAlive": 0.9755266091908724,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.7412346505059,
+    "TimeAlive": 109.65339454636063,
+    "ScaledTimeAlive": 0.8980929890506337,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.90368461382307,
+    "TimeAlive": 133.40564047146168,
+    "ScaledTimeAlive": 0.9528150220991748,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 97.82766772694828,
+    "TimeAlive": 116.25634021713628,
+    "ScaledTimeAlive": 0.8834175609196152,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 97.18236438074142,
+    "TimeAlive": 117.00444033353308,
+    "ScaledTimeAlive": 0.8320353571591466,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.16510301205489,
+    "TimeAlive": 118.23328324003201,
+    "ScaledTimeAlive": 0.9486455393932688,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.0159495549318,
+    "TimeAlive": 146.0980241761464,
+    "ScaledTimeAlive": 0.9181927711344643,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.58643150525512,
+    "TimeAlive": 129.2296263644462,
+    "ScaledTimeAlive": 0.845706481682253,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.92924939918032,
+    "TimeAlive": 130.81743077265193,
+    "ScaledTimeAlive": 0.8281664123041271,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.38759827727056,
+    "TimeAlive": 105.67231767258781,
+    "ScaledTimeAlive": 0.8661619931894788,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.66188056112759,
+    "TimeAlive": 105.02823307456579,
+    "ScaledTimeAlive": 0.9827037227093223,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.01969821142956,
+    "TimeAlive": 129.71174406116427,
+    "ScaledTimeAlive": 0.8789561259990961,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.88697252148648,
+    "TimeAlive": 126.33160910419267,
+    "ScaledTimeAlive": 0.8942624989390596,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 84.40355264222764,
+    "TimeAlive": 106.19894735442695,
+    "ScaledTimeAlive": 0.9956521817794111,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.04261115508837,
+    "TimeAlive": 146.8224778752756,
+    "ScaledTimeAlive": 0.9774416606426648,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 83.58477347802038,
+    "TimeAlive": 130.07768891627626,
+    "ScaledTimeAlive": 0.857281567635956,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 80.17301656714692,
+    "TimeAlive": 125.59472640190107,
+    "ScaledTimeAlive": 0.8360628176810657,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.4016242926719,
+    "TimeAlive": 145.41254001418002,
+    "ScaledTimeAlive": 0.9200732122919283,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 85.58047890158711,
+    "TimeAlive": 126.93724989210864,
+    "ScaledTimeAlive": 0.8874919940151331,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 97.6462081089468,
+    "TimeAlive": 109.6259543789029,
+    "ScaledTimeAlive": 0.8741678101834247,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.09269085996601,
+    "TimeAlive": 142.76790255046507,
+    "ScaledTimeAlive": 0.9813384408250396,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.55997698701442,
+    "TimeAlive": 128.47056276844384,
+    "ScaledTimeAlive": 0.9130810715146603,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.72096670913213,
+    "TimeAlive": 114.06345017979368,
+    "ScaledTimeAlive": 0.9911930510294734,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.13805221702111,
+    "TimeAlive": 101.9362284899179,
+    "ScaledTimeAlive": 0.8720343171195719,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 83.2965257210725,
+    "TimeAlive": 143.57692712448159,
+    "ScaledTimeAlive": 0.9040675565651628,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 97.07603810573339,
+    "TimeAlive": 112.86473640715349,
+    "ScaledTimeAlive": 0.8829441645050516,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 88.19744171024311,
+    "TimeAlive": 114.90928431205265,
+    "ScaledTimeAlive": 0.9652595844701091,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 96.15768058897298,
+    "TimeAlive": 129.16912929055997,
+    "ScaledTimeAlive": 0.8205804747362981,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.54023551586192,
+    "TimeAlive": 129.79091931165667,
+    "ScaledTimeAlive": 0.948049026064131,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 96.0107916812288,
+    "TimeAlive": 123.70611447669032,
+    "ScaledTimeAlive": 0.8932609093791801,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.53309348766676,
+    "TimeAlive": 127.04253362924152,
+    "ScaledTimeAlive": 0.961118061865354,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.1009139755264,
+    "TimeAlive": 109.92074597360035,
+    "ScaledTimeAlive": 0.8647405950007636,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.07168420474285,
+    "TimeAlive": 148.81450121985395,
+    "ScaledTimeAlive": 0.9290029675346816,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.32949420663866,
+    "TimeAlive": 147.27239952571352,
+    "ScaledTimeAlive": 0.8626787643955157,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.80976728477756,
+    "TimeAlive": 103.09769247485113,
+    "ScaledTimeAlive": 0.8088154436286119,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 84.88394164292043,
+    "TimeAlive": 116.09159082509265,
+    "ScaledTimeAlive": 0.9866212503904547,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 84.53531191049632,
+    "TimeAlive": 110.00174028839245,
+    "ScaledTimeAlive": 0.816232928120278,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.16873407032814,
+    "TimeAlive": 110.12780739589175,
+    "ScaledTimeAlive": 0.9982614342773007,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.93200999477689,
+    "TimeAlive": 101.67039902815328,
+    "ScaledTimeAlive": 0.8492668966725376,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.13481851613902,
+    "TimeAlive": 113.63715202363909,
+    "ScaledTimeAlive": 0.8199086730407257,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.07088529693019,
+    "TimeAlive": 131.15371274665824,
+    "ScaledTimeAlive": 0.9953218805565789,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 80.91765206042079,
+    "TimeAlive": 111.76531359660953,
+    "ScaledTimeAlive": 0.8373930227444014,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 83.8005006857892,
+    "TimeAlive": 110.79787618479443,
+    "ScaledTimeAlive": 0.930791788782019,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.34312635894644,
+    "TimeAlive": 101.6298354709012,
+    "ScaledTimeAlive": 0.8325065988195836,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.4491795130735,
+    "TimeAlive": 133.34344099433574,
+    "ScaledTimeAlive": 0.8189228817390016,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 97.81566400262761,
+    "TimeAlive": 137.2895858805416,
+    "ScaledTimeAlive": 0.967090383545905,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.15848485427638,
+    "TimeAlive": 106.16046139094121,
+    "ScaledTimeAlive": 0.9683730928166183,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.28906502579632,
+    "TimeAlive": 105.49438930688832,
+    "ScaledTimeAlive": 0.8664268531438392,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 85.87365815430644,
+    "TimeAlive": 100.19089836187786,
+    "ScaledTimeAlive": 0.813410285790037,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 83.9259717211951,
+    "TimeAlive": 126.3379528286817,
+    "ScaledTimeAlive": 0.9436397722293818,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 83.03110326903585,
+    "TimeAlive": 110.69607709015756,
+    "ScaledTimeAlive": 0.8312968943266174,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 87.84680761277481,
+    "TimeAlive": 120.67785695706145,
+    "ScaledTimeAlive": 0.8162001666981625,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 97.06578610754698,
+    "TimeAlive": 125.45608838093916,
+    "ScaledTimeAlive": 0.9844562261187769,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 80.81444497334581,
+    "TimeAlive": 110.4069163407862,
+    "ScaledTimeAlive": 0.8506827367722605,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.48065397517911,
+    "TimeAlive": 119.29151577657895,
+    "ScaledTimeAlive": 0.9873443260033804,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 99.0209782483215,
+    "TimeAlive": 147.22389460237704,
+    "ScaledTimeAlive": 0.924109140928467,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.2836495794299,
+    "TimeAlive": 130.49316470827137,
+    "ScaledTimeAlive": 0.9841262570275161,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.92529225181323,
+    "TimeAlive": 128.14367846680702,
+    "ScaledTimeAlive": 0.8570552868299385,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.65308271945709,
+    "TimeAlive": 118.703725610787,
+    "ScaledTimeAlive": 0.9677001268628399,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.5986284349376,
+    "TimeAlive": 129.7443294706212,
+    "ScaledTimeAlive": 0.9242705489818447,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 95.9328743541577,
+    "TimeAlive": 125.04916172941127,
+    "ScaledTimeAlive": 0.9148067543825066,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.06980618957292,
+    "TimeAlive": 134.52686035166332,
+    "ScaledTimeAlive": 0.9332764940376932,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.71930569486437,
+    "TimeAlive": 146.68902070719014,
+    "ScaledTimeAlive": 0.9718577762799285,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.35888053952411,
+    "TimeAlive": 145.96646831902996,
+    "ScaledTimeAlive": 0.8810216220364061,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.53181868586167,
+    "TimeAlive": 139.13507981914023,
+    "ScaledTimeAlive": 0.8668522515807249,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.80719564961079,
+    "TimeAlive": 138.94097184967043,
+    "ScaledTimeAlive": 0.969109697972107,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 84.63643752178905,
+    "TimeAlive": 124.60420360708517,
+    "ScaledTimeAlive": 0.8828397019046154,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.00525733941251,
+    "TimeAlive": 131.58221343424896,
+    "ScaledTimeAlive": 0.8411142580980148,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 87.88820449221703,
+    "TimeAlive": 128.42323359217067,
+    "ScaledTimeAlive": 0.8320913244174192,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.52683015552284,
+    "TimeAlive": 112.73229330770674,
+    "ScaledTimeAlive": 0.9994401408879959,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 97.21146555230338,
+    "TimeAlive": 148.25279351689133,
+    "ScaledTimeAlive": 0.9372139161515234,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.01506276619175,
+    "TimeAlive": 121.16681106077625,
+    "ScaledTimeAlive": 0.8296884031650609,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.49703327480313,
+    "TimeAlive": 105.74426222656813,
+    "ScaledTimeAlive": 0.9795391261823203,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.27181930832353,
+    "TimeAlive": 112.58332330340389,
+    "ScaledTimeAlive": 0.8368014234673795,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.199863091011,
+    "TimeAlive": 114.49844607139396,
+    "ScaledTimeAlive": 0.9523798154375818,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 83.86500690883473,
+    "TimeAlive": 145.58357705512518,
+    "ScaledTimeAlive": 0.895541187721628,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 96.19859803556639,
+    "TimeAlive": 144.95509146753386,
+    "ScaledTimeAlive": 0.809985918752346,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.42890673701457,
+    "TimeAlive": 139.02045995264115,
+    "ScaledTimeAlive": 0.9531065829038583,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.210890530085,
+    "TimeAlive": 118.5095233067966,
+    "ScaledTimeAlive": 0.919086310214765,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.06552635817427,
+    "TimeAlive": 143.59876574476127,
+    "ScaledTimeAlive": 0.9205180077228334,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.45975704788546,
+    "TimeAlive": 100.5160119282797,
+    "ScaledTimeAlive": 0.8871970036436976,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 85.6998255291261,
+    "TimeAlive": 111.23086429021596,
+    "ScaledTimeAlive": 0.81812163200726,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.486491338032,
+    "TimeAlive": 117.26810580467983,
+    "ScaledTimeAlive": 0.8743604954156671,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.26389965403538,
+    "TimeAlive": 107.50929974524253,
+    "ScaledTimeAlive": 0.9587414476720421,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.32105278251268,
+    "TimeAlive": 148.34647146190747,
+    "ScaledTimeAlive": 0.8083948600677504,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 80.67253036640919,
+    "TimeAlive": 141.738949159179,
+    "ScaledTimeAlive": 0.8839542920819894,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.40747193568083,
+    "TimeAlive": 137.035029650729,
+    "ScaledTimeAlive": 0.8431359024873538,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.38920643146633,
+    "TimeAlive": 101.52415610005649,
+    "ScaledTimeAlive": 0.8507275983334274,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.50079413978762,
+    "TimeAlive": 111.06380842400446,
+    "ScaledTimeAlive": 0.9018556247205357,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.21037087398393,
+    "TimeAlive": 119.42299855372613,
+    "ScaledTimeAlive": 0.8875972634611182,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.60892748678566,
+    "TimeAlive": 134.55389864801617,
+    "ScaledTimeAlive": 0.9926104804808211,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 99.50235048539137,
+    "TimeAlive": 146.19960374049046,
+    "ScaledTimeAlive": 0.8156453480562588,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.13416929634897,
+    "TimeAlive": 122.83721750596362,
+    "ScaledTimeAlive": 0.8773396832405727,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.5703885875264,
+    "TimeAlive": 144.0918935704865,
+    "ScaledTimeAlive": 0.862437712607562,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.67164026081147,
+    "TimeAlive": 114.74196238337629,
+    "ScaledTimeAlive": 0.8892531703813629,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 95.86578466697108,
+    "TimeAlive": 113.3761667352411,
+    "ScaledTimeAlive": 0.8598150487984677,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.07645973673176,
+    "TimeAlive": 126.26125997777933,
+    "ScaledTimeAlive": 0.9551626499920397,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.56941510550492,
+    "TimeAlive": 105.34222872393207,
+    "ScaledTimeAlive": 0.9017467457876305,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 83.54031464534057,
+    "TimeAlive": 134.87663145887538,
+    "ScaledTimeAlive": 0.8043970940898457,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 88.32550539648406,
+    "TimeAlive": 112.74777716437589,
+    "ScaledTimeAlive": 0.9935285965043855,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 95.1848153184136,
+    "TimeAlive": 140.04723311515446,
+    "ScaledTimeAlive": 0.8187071559572625,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 81.25081243805778,
+    "TimeAlive": 117.07608326344669,
+    "ScaledTimeAlive": 0.8610801496006286,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 88.74493663355084,
+    "TimeAlive": 147.49883656231054,
+    "ScaledTimeAlive": 0.9063555375890864,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 80.05343511277125,
+    "TimeAlive": 146.52486061666605,
+    "ScaledTimeAlive": 0.9028081752500845,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.74345524459336,
+    "TimeAlive": 125.63907053689698,
+    "ScaledTimeAlive": 0.9070257185386824,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.59695047320005,
+    "TimeAlive": 107.39596730482971,
+    "ScaledTimeAlive": 0.8338097320490311,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 84.73067341361971,
+    "TimeAlive": 130.6391741032634,
+    "ScaledTimeAlive": 0.9483396676642202,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.30248334372638,
+    "TimeAlive": 111.2893732581509,
+    "ScaledTimeAlive": 0.8739188850663772,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 95.07586437412708,
+    "TimeAlive": 144.27546398931818,
+    "ScaledTimeAlive": 0.9789424885156307,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.49895068400114,
+    "TimeAlive": 141.89425567352265,
+    "ScaledTimeAlive": 0.8225165079305133,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.45723508212991,
+    "TimeAlive": 132.50250153047529,
+    "ScaledTimeAlive": 0.9906778186090679,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.40553477393078,
+    "TimeAlive": 135.66486659131982,
+    "ScaledTimeAlive": 0.9615020984357154,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.19536672153353,
+    "TimeAlive": 126.7309053962862,
+    "ScaledTimeAlive": 0.8243970083975531,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.56588195378559,
+    "TimeAlive": 117.43180860116499,
+    "ScaledTimeAlive": 0.96296973980226,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.06312472162469,
+    "TimeAlive": 147.06923610131662,
+    "ScaledTimeAlive": 0.8395444679537918,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.00874451639329,
+    "TimeAlive": 141.38613523390944,
+    "ScaledTimeAlive": 0.8236299964330701,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.95073878099713,
+    "TimeAlive": 125.26171952641036,
+    "ScaledTimeAlive": 0.9207090735080949,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.8341717178279,
+    "TimeAlive": 123.96860836071733,
+    "ScaledTimeAlive": 0.969358317092827,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 96.03593263061367,
+    "TimeAlive": 124.76278793687514,
+    "ScaledTimeAlive": 0.9273108276246711,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.29041512173842,
+    "TimeAlive": 128.80791451075945,
+    "ScaledTimeAlive": 0.9064820363736161,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 97.3575369966664,
+    "TimeAlive": 143.76794551372896,
+    "ScaledTimeAlive": 0.9946124419305852,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.366934118717,
+    "TimeAlive": 138.63935341575544,
+    "ScaledTimeAlive": 0.9596728016913346,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.3551845184035,
+    "TimeAlive": 143.7940092269921,
+    "ScaledTimeAlive": 0.8991431057963467,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.31978501258463,
+    "TimeAlive": 125.96497406699027,
+    "ScaledTimeAlive": 0.9837583529614636,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.70652313680792,
+    "TimeAlive": 140.50232709519844,
+    "ScaledTimeAlive": 0.8641344497810367,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 83.72640148402144,
+    "TimeAlive": 138.25847958936745,
+    "ScaledTimeAlive": 0.9977546011344041,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 96.9266681132458,
+    "TimeAlive": 147.36488367726255,
+    "ScaledTimeAlive": 0.825342482401109,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.03066942788561,
+    "TimeAlive": 129.38640695582052,
+    "ScaledTimeAlive": 0.8843599679466491,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.2041164825479,
+    "TimeAlive": 122.53065021616767,
+    "ScaledTimeAlive": 0.9693121067837158,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 88.85611740092722,
+    "TimeAlive": 139.22527251426953,
+    "ScaledTimeAlive": 0.9712551147836394,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 88.39018701003239,
+    "TimeAlive": 143.69082210567316,
+    "ScaledTimeAlive": 0.8441577080558846,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.64050145302966,
+    "TimeAlive": 149.19221940579098,
+    "ScaledTimeAlive": 0.8481207183863768,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 95.82556800389779,
+    "TimeAlive": 102.51443471072818,
+    "ScaledTimeAlive": 0.9037213537550401,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.87116260793842,
+    "TimeAlive": 123.71533258019909,
+    "ScaledTimeAlive": 0.8665868952147372,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.74289682333193,
+    "TimeAlive": 104.17800500176426,
+    "ScaledTimeAlive": 0.8198934976861498,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.77684305724244,
+    "TimeAlive": 126.08761242986645,
+    "ScaledTimeAlive": 0.8226370477200436,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.5033940715453,
+    "TimeAlive": 125.37941385009636,
+    "ScaledTimeAlive": 0.8826566773922644,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.23497198040458,
+    "TimeAlive": 102.46123739196162,
+    "ScaledTimeAlive": 0.8562206028794618,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 95.65080745840271,
+    "TimeAlive": 131.56273062072626,
+    "ScaledTimeAlive": 0.8956047433245393,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.86636961012708,
+    "TimeAlive": 114.8738318613472,
+    "ScaledTimeAlive": 0.8944783840122478,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.05118101090706,
+    "TimeAlive": 132.33680256347253,
+    "ScaledTimeAlive": 0.8276490943146052,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.24225194976964,
+    "TimeAlive": 149.0083651306862,
+    "ScaledTimeAlive": 0.9925568161668031,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 90.78952259976411,
+    "TimeAlive": 146.47809067908696,
+    "ScaledTimeAlive": 0.909177608408789,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 85.61537727507135,
+    "TimeAlive": 115.28526768695096,
+    "ScaledTimeAlive": 0.9714946145028547,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 97.68192419982083,
+    "TimeAlive": 130.64794360532971,
+    "ScaledTimeAlive": 0.8956821600656186,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.20851354445836,
+    "TimeAlive": 115.83522678276577,
+    "ScaledTimeAlive": 0.9576823954262075,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.63982610806258,
+    "TimeAlive": 129.89502155987003,
+    "ScaledTimeAlive": 0.821117722674145,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.51617907663628,
+    "TimeAlive": 135.95694901169568,
+    "ScaledTimeAlive": 0.8085742957432437,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 99.18670761700346,
+    "TimeAlive": 132.5939413783533,
+    "ScaledTimeAlive": 0.8442289229323771,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.36856520609209,
+    "TimeAlive": 107.50692096856812,
+    "ScaledTimeAlive": 0.8523601025118803,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.18732869083685,
+    "TimeAlive": 139.3208813413872,
+    "ScaledTimeAlive": 0.9837818922372854,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.97436456991724,
+    "TimeAlive": 113.59935558426827,
+    "ScaledTimeAlive": 0.9864239685509476,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.34891725015655,
+    "TimeAlive": 129.74645178055806,
+    "ScaledTimeAlive": 0.9149551890899501,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.89470664988514,
+    "TimeAlive": 119.68576643343515,
+    "ScaledTimeAlive": 0.8808447182573893,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.83616402264632,
+    "TimeAlive": 108.10702600825253,
+    "ScaledTimeAlive": 0.835384978563763,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.8960992122422,
+    "TimeAlive": 141.26880124779433,
+    "ScaledTimeAlive": 0.80595550884986,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.76941129943114,
+    "TimeAlive": 116.19076582566582,
+    "ScaledTimeAlive": 0.9394462221498677,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 99.57112159910335,
+    "TimeAlive": 122.68411987740583,
+    "ScaledTimeAlive": 0.8581985504242413,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.16207814491125,
+    "TimeAlive": 115.38980366632296,
+    "ScaledTimeAlive": 0.9000994992924743,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 95.37685758033497,
+    "TimeAlive": 112.63760116590034,
+    "ScaledTimeAlive": 0.9330487664423346,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.2781265823394,
+    "TimeAlive": 101.38359162764198,
+    "ScaledTimeAlive": 0.849018747202812,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.16584580075228,
+    "TimeAlive": 110.95075122630651,
+    "ScaledTimeAlive": 0.8315970709857134,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.09073257928105,
+    "TimeAlive": 112.40333463096113,
+    "ScaledTimeAlive": 0.9065086354282851,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.8860841447626,
+    "TimeAlive": 123.01601033658628,
+    "ScaledTimeAlive": 0.8542459253421522,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.71134315595472,
+    "TimeAlive": 134.25171651432507,
+    "ScaledTimeAlive": 0.8604128450742782,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.34534729907509,
+    "TimeAlive": 109.29746294361833,
+    "ScaledTimeAlive": 0.9608452405210036,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.46515821173921,
+    "TimeAlive": 136.41896814505083,
+    "ScaledTimeAlive": 0.9905031576088427,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.09398187826301,
+    "TimeAlive": 125.4209092128485,
+    "ScaledTimeAlive": 0.8930193027135777,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.268109704205,
+    "TimeAlive": 111.74970694920654,
+    "ScaledTimeAlive": 0.8211910737841066,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.49616466254152,
+    "TimeAlive": 145.7613059465035,
+    "ScaledTimeAlive": 0.8761862972084452,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.977429018495,
+    "TimeAlive": 110.75280160485674,
+    "ScaledTimeAlive": 0.8873818222211904,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.6149051057153,
+    "TimeAlive": 119.28427807876267,
+    "ScaledTimeAlive": 0.8636580308629433,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.56094948693412,
+    "TimeAlive": 105.68680501567195,
+    "ScaledTimeAlive": 0.9818441879226021,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.14578543141414,
+    "TimeAlive": 129.68331455801075,
+    "ScaledTimeAlive": 0.9799990941031926,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.1540592799916,
+    "TimeAlive": 136.8412087196109,
+    "ScaledTimeAlive": 0.9994757225992276,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.71655143615355,
+    "TimeAlive": 105.9050346543129,
+    "ScaledTimeAlive": 0.9395776500978217,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.3500678969767,
+    "TimeAlive": 112.46683796439665,
+    "ScaledTimeAlive": 0.8180172242771473,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.45993157994467,
+    "TimeAlive": 147.63682561968156,
+    "ScaledTimeAlive": 0.8427173720225786,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.49178113059217,
+    "TimeAlive": 122.42830848686948,
+    "ScaledTimeAlive": 0.9550652949812384,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.57000863455403,
+    "TimeAlive": 140.00497010913992,
+    "ScaledTimeAlive": 0.9300065824871909,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.24549301814048,
+    "TimeAlive": 108.94116896755065,
+    "ScaledTimeAlive": 0.9775083550004033,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 95.96216128184084,
+    "TimeAlive": 139.04279387692947,
+    "ScaledTimeAlive": 0.864149850051656,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 83.80497320948564,
+    "TimeAlive": 123.09389011653032,
+    "ScaledTimeAlive": 0.9599275373553509,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.39207059035628,
+    "TimeAlive": 135.36645482895295,
+    "ScaledTimeAlive": 0.9688693872694322,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.81255124083113,
+    "TimeAlive": 143.55343535637243,
+    "ScaledTimeAlive": 0.9272400296277299,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 90.71464418391736,
+    "TimeAlive": 118.72488957423735,
+    "ScaledTimeAlive": 0.9661278534179032,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.66935398151585,
+    "TimeAlive": 101.11077891943032,
+    "ScaledTimeAlive": 0.8549431226131466,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.00846731003459,
+    "TimeAlive": 125.28817664989532,
+    "ScaledTimeAlive": 0.8066782299393982,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.38972317730381,
+    "TimeAlive": 131.77761799201218,
+    "ScaledTimeAlive": 0.8360041073208148,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 97.30833644017864,
+    "TimeAlive": 122.98962065542662,
+    "ScaledTimeAlive": 0.9742137940108737,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.60036767931408,
+    "TimeAlive": 108.53518170147991,
+    "ScaledTimeAlive": 0.8811582287153351,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.11418512118178,
+    "TimeAlive": 124.22787025601326,
+    "ScaledTimeAlive": 0.8081277304177004,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.82263868613498,
+    "TimeAlive": 105.37908284799096,
+    "ScaledTimeAlive": 0.879694635499827,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.45437791025464,
+    "TimeAlive": 100.89242737249846,
+    "ScaledTimeAlive": 0.9054830211761963,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.14939480836765,
+    "TimeAlive": 118.07549040045103,
+    "ScaledTimeAlive": 0.9489067823400021,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.50031492890938,
+    "TimeAlive": 120.82134120880208,
+    "ScaledTimeAlive": 0.9727436980027013,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 81.43505726461997,
+    "TimeAlive": 117.77443858163336,
+    "ScaledTimeAlive": 0.8218537703167595,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.77376213501623,
+    "TimeAlive": 103.02799292964785,
+    "ScaledTimeAlive": 0.8709591295916012,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.78428375391883,
+    "TimeAlive": 105.63035388444213,
+    "ScaledTimeAlive": 0.8929286315346342,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.97048845766406,
+    "TimeAlive": 104.11776225614598,
+    "ScaledTimeAlive": 0.8344845862964271,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.07112678977904,
+    "TimeAlive": 119.31583051770747,
+    "ScaledTimeAlive": 0.8234274800817684,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.71490090435618,
+    "TimeAlive": 136.40192894140515,
+    "ScaledTimeAlive": 0.8427589485395337,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.12268982711551,
+    "TimeAlive": 129.29086114371012,
+    "ScaledTimeAlive": 0.9186350476047388,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.56143317584088,
+    "TimeAlive": 130.86226414554935,
+    "ScaledTimeAlive": 0.8267957951527343,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.29228823283299,
+    "TimeAlive": 131.52330131872787,
+    "ScaledTimeAlive": 0.8748369058895533,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.79730843181481,
+    "TimeAlive": 147.27477011001292,
+    "ScaledTimeAlive": 0.8771771167167606,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 80.22387458309515,
+    "TimeAlive": 121.9225133928117,
+    "ScaledTimeAlive": 0.9494721984669613,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 83.73380476609118,
+    "TimeAlive": 102.93715781115516,
+    "ScaledTimeAlive": 0.8786388369651255,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 97.7264821140243,
+    "TimeAlive": 125.52202769370248,
+    "ScaledTimeAlive": 0.8386365353225405,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.70038756496159,
+    "TimeAlive": 148.2421126976339,
+    "ScaledTimeAlive": 0.8734325187356773,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.99450851225804,
+    "TimeAlive": 137.1597612834476,
+    "ScaledTimeAlive": 0.8976945026533604,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 85.51477602492378,
+    "TimeAlive": 148.49460918226512,
+    "ScaledTimeAlive": 0.804172164294653,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.26049579553506,
+    "TimeAlive": 142.89162840389122,
+    "ScaledTimeAlive": 0.9847889069760642,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.84508357079473,
+    "TimeAlive": 110.2680601843574,
+    "ScaledTimeAlive": 0.9685974191068982,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 83.40031417617644,
+    "TimeAlive": 127.4583317276728,
+    "ScaledTimeAlive": 0.8943290497473348,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.26447341936525,
+    "TimeAlive": 128.76241895304292,
+    "ScaledTimeAlive": 0.9800484872060782,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.27392608740196,
+    "TimeAlive": 106.7285943533753,
+    "ScaledTimeAlive": 0.9761285887306053,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.76289528756853,
+    "TimeAlive": 138.8270387038696,
+    "ScaledTimeAlive": 0.9929997879962232,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.57261594874066,
+    "TimeAlive": 127.66969681082996,
+    "ScaledTimeAlive": 0.9325235762667407,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 97.46100446128241,
+    "TimeAlive": 118.53195056112514,
+    "ScaledTimeAlive": 0.9633393286010244,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.38412711720885,
+    "TimeAlive": 129.70602463929336,
+    "ScaledTimeAlive": 0.8206087209278262,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.48090169602457,
+    "TimeAlive": 131.6210328809565,
+    "ScaledTimeAlive": 0.8179184510037477,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 85.59733855575502,
+    "TimeAlive": 102.84484012165564,
+    "ScaledTimeAlive": 0.9100474902899026,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.29401455888147,
+    "TimeAlive": 138.06972976046023,
+    "ScaledTimeAlive": 0.9742344801858298,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.02411536580514,
+    "TimeAlive": 120.68178259265748,
+    "ScaledTimeAlive": 0.9545686342088402,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.62658241768497,
+    "TimeAlive": 117.03036431815055,
+    "ScaledTimeAlive": 0.9564281443404167,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 80.59742336928565,
+    "TimeAlive": 108.8077527929169,
+    "ScaledTimeAlive": 0.9010477185247883,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.42216190089103,
+    "TimeAlive": 133.54391352768624,
+    "ScaledTimeAlive": 0.8054681330641572,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.92990719830422,
+    "TimeAlive": 142.46061486851286,
+    "ScaledTimeAlive": 0.9676474291650432,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.55219183123303,
+    "TimeAlive": 111.6814883667994,
+    "ScaledTimeAlive": 0.8851666687919052,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.48232511616567,
+    "TimeAlive": 138.6662804731394,
+    "ScaledTimeAlive": 0.9152654978298882,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 84.48550852038197,
+    "TimeAlive": 122.58578272949363,
+    "ScaledTimeAlive": 0.9954994781970476,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.8967776151377,
+    "TimeAlive": 142.77716103819995,
+    "ScaledTimeAlive": 0.9601442995773523,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 80.26565658310514,
+    "TimeAlive": 119.70006079391906,
+    "ScaledTimeAlive": 0.8738208872749159,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.94236253138298,
+    "TimeAlive": 136.8645687855716,
+    "ScaledTimeAlive": 0.8453634960572989,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.48808000026983,
+    "TimeAlive": 131.5696496638453,
+    "ScaledTimeAlive": 0.9974982181339218,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 83.370430897886,
+    "TimeAlive": 139.57451177805788,
+    "ScaledTimeAlive": 0.8473657570068588,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.0213099635673,
+    "TimeAlive": 106.2448569384737,
+    "ScaledTimeAlive": 0.8684749421073219,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.93917212540124,
+    "TimeAlive": 138.57337811840782,
+    "ScaledTimeAlive": 0.8715571219629475,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.22101167882704,
+    "TimeAlive": 126.73342838079677,
+    "ScaledTimeAlive": 0.9586386186267861,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.56271164827537,
+    "TimeAlive": 149.37369712536054,
+    "ScaledTimeAlive": 0.8023713568714128,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.25226202064069,
+    "TimeAlive": 106.16419125403343,
+    "ScaledTimeAlive": 0.8605316123943733,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.55472885937404,
+    "TimeAlive": 103.68468412373133,
+    "ScaledTimeAlive": 0.9964688367460458,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.86362250050911,
+    "TimeAlive": 101.12923659727328,
+    "ScaledTimeAlive": 0.8385948865262837,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.39291574211958,
+    "TimeAlive": 116.4765507917078,
+    "ScaledTimeAlive": 0.8801452553158025,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.96611404565478,
+    "TimeAlive": 148.17012878332608,
+    "ScaledTimeAlive": 0.9995866207402664,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.87497214621976,
+    "TimeAlive": 141.59427826334377,
+    "ScaledTimeAlive": 0.9311259254720472,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.90309901400336,
+    "TimeAlive": 102.8052835904509,
+    "ScaledTimeAlive": 0.8043044134432198,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.61489465498748,
+    "TimeAlive": 114.6819571528945,
+    "ScaledTimeAlive": 0.8558739260482767,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 83.80484201108321,
+    "TimeAlive": 114.99944312693087,
+    "ScaledTimeAlive": 0.9620742791443765,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 85.17987787777368,
+    "TimeAlive": 108.21558084551296,
+    "ScaledTimeAlive": 0.8253467735438356,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.61097097743607,
+    "TimeAlive": 104.63505136261855,
+    "ScaledTimeAlive": 0.8660964994978246,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 81.14478562430538,
+    "TimeAlive": 138.68001874980575,
+    "ScaledTimeAlive": 0.9693051506241969,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.35268242899014,
+    "TimeAlive": 111.5269588709415,
+    "ScaledTimeAlive": 0.8427764478357374,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.35639262586213,
+    "TimeAlive": 135.76625652159015,
+    "ScaledTimeAlive": 0.9594903996462185,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 81.66250044521402,
+    "TimeAlive": 146.95815987058063,
+    "ScaledTimeAlive": 0.9734633149435579,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 96.40243895124777,
+    "TimeAlive": 115.3825700300872,
+    "ScaledTimeAlive": 0.9781538160604892,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.1968782694716,
+    "TimeAlive": 110.3085610868873,
+    "ScaledTimeAlive": 0.9699868553744553,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.59697809538059,
+    "TimeAlive": 128.4297114070911,
+    "ScaledTimeAlive": 0.8909829918122605,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.4853236437665,
+    "TimeAlive": 112.4995681706352,
+    "ScaledTimeAlive": 0.9183425143406199,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.54453067260737,
+    "TimeAlive": 100.63515219909343,
+    "ScaledTimeAlive": 0.9473599711862621,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.2062981518587,
+    "TimeAlive": 127.5555531605693,
+    "ScaledTimeAlive": 0.9801986757570663,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.54084042690172,
+    "TimeAlive": 117.92800931543249,
+    "ScaledTimeAlive": 0.9186986573884823,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.19276256485882,
+    "TimeAlive": 108.66282963203733,
+    "ScaledTimeAlive": 0.9124555778349351,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.51969318913439,
+    "TimeAlive": 148.31042178947843,
+    "ScaledTimeAlive": 0.8396305386422007,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.49823281186653,
+    "TimeAlive": 137.32076987849615,
+    "ScaledTimeAlive": 0.8207056087905436,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.68628175641473,
+    "TimeAlive": 148.97791802629388,
+    "ScaledTimeAlive": 0.8366027884383114,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.79655196857611,
+    "TimeAlive": 146.5935450647723,
+    "ScaledTimeAlive": 0.8887634297814784,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.23220680433057,
+    "TimeAlive": 139.99149899394138,
+    "ScaledTimeAlive": 0.848032659012555,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 84.96639248120093,
+    "TimeAlive": 138.3822028017443,
+    "ScaledTimeAlive": 0.929906533364633,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.73463908994604,
+    "TimeAlive": 102.65156759480178,
+    "ScaledTimeAlive": 0.9311146981001686,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.74854177424331,
+    "TimeAlive": 121.95575609141471,
+    "ScaledTimeAlive": 0.8670782890994837,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.93646660106563,
+    "TimeAlive": 147.49844798572175,
+    "ScaledTimeAlive": 0.808367963513641,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.15299796637568,
+    "TimeAlive": 107.3680005374818,
+    "ScaledTimeAlive": 0.9495306103742784,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.68611448485876,
+    "TimeAlive": 114.40234469066439,
+    "ScaledTimeAlive": 0.8890466805344858,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 97.82071340059669,
+    "TimeAlive": 118.3505990832111,
+    "ScaledTimeAlive": 0.9528644324103299,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.7279411114065,
+    "TimeAlive": 135.3774613548137,
+    "ScaledTimeAlive": 0.8211817956470768,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.25135424593759,
+    "TimeAlive": 104.18757033509237,
+    "ScaledTimeAlive": 0.9868474027401584,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.23943030467807,
+    "TimeAlive": 120.11889681732653,
+    "ScaledTimeAlive": 0.8319122660598102,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.69516844518535,
+    "TimeAlive": 149.87418965481803,
+    "ScaledTimeAlive": 0.8605491066671163,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.3288671443469,
+    "TimeAlive": 146.01352924337507,
+    "ScaledTimeAlive": 0.8408812933778356,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.55835503661962,
+    "TimeAlive": 109.36548398948216,
+    "ScaledTimeAlive": 0.8795054865082451,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.02832527168,
+    "TimeAlive": 103.16219616435264,
+    "ScaledTimeAlive": 0.8684531559942088,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.32914215465037,
+    "TimeAlive": 149.11073383079636,
+    "ScaledTimeAlive": 0.9953670059343478,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.0731467977223,
+    "TimeAlive": 148.63744178537166,
+    "ScaledTimeAlive": 0.8922848862881486,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.61655928319871,
+    "TimeAlive": 101.27327251862096,
+    "ScaledTimeAlive": 0.985949991946325,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.18157207127709,
+    "TimeAlive": 106.46624504732478,
+    "ScaledTimeAlive": 0.8729613043887701,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 80.38700782686435,
+    "TimeAlive": 101.96546157173435,
+    "ScaledTimeAlive": 0.8005927674731781,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.93685469858369,
+    "TimeAlive": 124.0976441585954,
+    "ScaledTimeAlive": 0.9332986458409289,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.26816921649576,
+    "TimeAlive": 125.64878938066873,
+    "ScaledTimeAlive": 0.8352596203790621,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.68625897093726,
+    "TimeAlive": 117.26354053391708,
+    "ScaledTimeAlive": 0.8193833622774428,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 97.69901278643306,
+    "TimeAlive": 116.20180466733015,
+    "ScaledTimeAlive": 0.8755688044465347,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.67346068209623,
+    "TimeAlive": 131.6207133344804,
+    "ScaledTimeAlive": 0.8951211613242078,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 95.9320087349714,
+    "TimeAlive": 141.00891263421593,
+    "ScaledTimeAlive": 0.8941753575731981,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.79931410999404,
+    "TimeAlive": 140.82880215494805,
+    "ScaledTimeAlive": 0.8801170007173369,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 93.83490531569608,
+    "TimeAlive": 102.64666924135419,
+    "ScaledTimeAlive": 0.8438261078922173,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.69212058219576,
+    "TimeAlive": 139.83269400542167,
+    "ScaledTimeAlive": 0.8517256034125242,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.63146558340186,
+    "TimeAlive": 128.40744445063063,
+    "ScaledTimeAlive": 0.9095132424345324,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.80805856739998,
+    "TimeAlive": 131.74617060529425,
+    "ScaledTimeAlive": 0.8472564389286228,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 81.79499990210043,
+    "TimeAlive": 100.88222178206573,
+    "ScaledTimeAlive": 0.8351915324875026,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.17895684071648,
+    "TimeAlive": 109.76811781079968,
+    "ScaledTimeAlive": 0.8958411248943327,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.1467917467593,
+    "TimeAlive": 144.63561853008483,
+    "ScaledTimeAlive": 0.8054179173687023,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.97864474239864,
+    "TimeAlive": 118.32099212591913,
+    "ScaledTimeAlive": 0.8578370630515444,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 87.82823825897594,
+    "TimeAlive": 121.59149499368492,
+    "ScaledTimeAlive": 0.8302304778185837,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.20917434370233,
+    "TimeAlive": 111.88542350711501,
+    "ScaledTimeAlive": 0.8407470783670256,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.43247157158888,
+    "TimeAlive": 118.76055168412066,
+    "ScaledTimeAlive": 0.9639939640210691,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 97.53469569495249,
+    "TimeAlive": 140.38847828363106,
+    "ScaledTimeAlive": 0.8551263088205772,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.70374844873811,
+    "TimeAlive": 108.70919811757635,
+    "ScaledTimeAlive": 0.8213265097885494,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.8461347863877,
+    "TimeAlive": 145.61057988241538,
+    "ScaledTimeAlive": 0.9451010582342001,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.05688245122688,
+    "TimeAlive": 109.88606732574306,
+    "ScaledTimeAlive": 0.8482533514304382,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 81.89867897393235,
+    "TimeAlive": 103.96224703929991,
+    "ScaledTimeAlive": 0.9827243243938397,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 85.4679697009818,
+    "TimeAlive": 121.59347737587083,
+    "ScaledTimeAlive": 0.8314487276197053,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.78828903060898,
+    "TimeAlive": 133.299921539781,
+    "ScaledTimeAlive": 0.835675666204154,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.42428855658623,
+    "TimeAlive": 145.52514002742484,
+    "ScaledTimeAlive": 0.8374863894379053,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.76781666777242,
+    "TimeAlive": 119.14529271856091,
+    "ScaledTimeAlive": 0.9034596673562135,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.31095417794035,
+    "TimeAlive": 125.56671141169512,
+    "ScaledTimeAlive": 0.8402992047842711,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.52325864053589,
+    "TimeAlive": 133.71411173688458,
+    "ScaledTimeAlive": 0.9708795233819458,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 94.64797207869739,
+    "TimeAlive": 135.78315843666306,
+    "ScaledTimeAlive": 0.9033009731477044,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.11552095261065,
+    "TimeAlive": 131.91486317255868,
+    "ScaledTimeAlive": 0.9078481580758109,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 80.29077636865172,
+    "TimeAlive": 102.79790972578853,
+    "ScaledTimeAlive": 0.9530214795018115,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 97.07244743770696,
+    "TimeAlive": 137.2345831425926,
+    "ScaledTimeAlive": 0.9001919310023834,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.19895972944721,
+    "TimeAlive": 126.87085490131781,
+    "ScaledTimeAlive": 0.9202288537594235,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.37774659027173,
+    "TimeAlive": 109.49264714559072,
+    "ScaledTimeAlive": 0.8182168981415718,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 83.79842253056995,
+    "TimeAlive": 129.85470885808977,
+    "ScaledTimeAlive": 0.9097694370424272,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.64060919050173,
+    "TimeAlive": 125.22088983590014,
+    "ScaledTimeAlive": 0.8785849193495182,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 88.42032380285336,
+    "TimeAlive": 105.64860905594415,
+    "ScaledTimeAlive": 0.9341020058493362,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 99.96319160930143,
+    "TimeAlive": 129.91621627028633,
+    "ScaledTimeAlive": 0.9487646966756602,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.09456234780257,
+    "TimeAlive": 144.63782821372743,
+    "ScaledTimeAlive": 0.9586386125667982,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.27694208412228,
+    "TimeAlive": 105.48348056030532,
+    "ScaledTimeAlive": 0.9705318907144622,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.12968764794188,
+    "TimeAlive": 119.8110274545396,
+    "ScaledTimeAlive": 0.98879342606943,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 96.44790652840271,
+    "TimeAlive": 135.78641286855245,
+    "ScaledTimeAlive": 0.8490258657039202,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.10679723099695,
+    "TimeAlive": 138.1044691914808,
+    "ScaledTimeAlive": 0.8261063948969475,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.50820571467642,
+    "TimeAlive": 127.55068861833932,
+    "ScaledTimeAlive": 0.9844463063506537,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.82555431439877,
+    "TimeAlive": 103.19823204597587,
+    "ScaledTimeAlive": 0.8908560549757998,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 99.7981899064884,
+    "TimeAlive": 143.30609202508091,
+    "ScaledTimeAlive": 0.8210156215216414,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.43997346182972,
+    "TimeAlive": 115.01897150937624,
+    "ScaledTimeAlive": 0.9005879145351189,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.98897444199316,
+    "TimeAlive": 134.40524945721145,
+    "ScaledTimeAlive": 0.925582310901426,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 84.0911598722762,
+    "TimeAlive": 121.7961930936046,
+    "ScaledTimeAlive": 0.8616929978489831,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.43036445612414,
+    "TimeAlive": 122.50351063151112,
+    "ScaledTimeAlive": 0.8180626644060673,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.19323708161541,
+    "TimeAlive": 101.02571750607108,
+    "ScaledTimeAlive": 0.9007233131485471,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 97.58276457423347,
+    "TimeAlive": 119.68224944252155,
+    "ScaledTimeAlive": 0.9942811256284249,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 97.47107149979584,
+    "TimeAlive": 133.17924047511187,
+    "ScaledTimeAlive": 0.8200182451899787,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.04918537289609,
+    "TimeAlive": 132.95948396011983,
+    "ScaledTimeAlive": 0.8116478429128506,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.48082314414484,
+    "TimeAlive": 123.75784434186612,
+    "ScaledTimeAlive": 0.9213366873703526,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 97.42339470759995,
+    "TimeAlive": 132.91802937245617,
+    "ScaledTimeAlive": 0.8209302869229071,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.55219270693254,
+    "TimeAlive": 115.56311671512609,
+    "ScaledTimeAlive": 0.8190824046010551,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.24379778011009,
+    "TimeAlive": 111.56828936144906,
+    "ScaledTimeAlive": 0.8085309232585425,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 91.22521939246293,
+    "TimeAlive": 110.73023148070169,
+    "ScaledTimeAlive": 0.8753479077083773,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.58782098597524,
+    "TimeAlive": 116.44951302072394,
+    "ScaledTimeAlive": 0.9083365586569981,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 85.48232742355788,
+    "TimeAlive": 120.19397545551908,
+    "ScaledTimeAlive": 0.8899435247318462,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.92377727300577,
+    "TimeAlive": 123.12655166168277,
+    "ScaledTimeAlive": 0.8861350503455837,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.14984015229628,
+    "TimeAlive": 136.31078896283918,
+    "ScaledTimeAlive": 0.8763137330908124,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 88.10480804317041,
+    "TimeAlive": 142.79225524548323,
+    "ScaledTimeAlive": 0.8271040874317858,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.6498441330495,
+    "TimeAlive": 130.19076736605126,
+    "ScaledTimeAlive": 0.9217498504805729,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.95069237159194,
+    "TimeAlive": 139.67134507040424,
+    "ScaledTimeAlive": 0.9475882485010102,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.33245814726752,
+    "TimeAlive": 113.33372538818514,
+    "ScaledTimeAlive": 0.9424447031279474,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.93185026007498,
+    "TimeAlive": 113.38181290712835,
+    "ScaledTimeAlive": 0.9436744852008592,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.3605236261033,
+    "TimeAlive": 135.74505754367922,
+    "ScaledTimeAlive": 0.8818280622058808,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.3711928316002,
+    "TimeAlive": 145.67976203020288,
+    "ScaledTimeAlive": 0.8840832624816036,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.43734013835979,
+    "TimeAlive": 117.78095128495154,
+    "ScaledTimeAlive": 0.8801962535785437,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 85.68280392875982,
+    "TimeAlive": 128.72878477937246,
+    "ScaledTimeAlive": 0.9645672960790493,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.86267715798994,
+    "TimeAlive": 142.2019425725964,
+    "ScaledTimeAlive": 0.958889842160134,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 96.21247949311403,
+    "TimeAlive": 117.90486516528188,
+    "ScaledTimeAlive": 0.9875501640076633,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 98.52085653267652,
+    "TimeAlive": 123.99621191180957,
+    "ScaledTimeAlive": 0.80505380703593,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.72561678058955,
+    "TimeAlive": 129.9189313125629,
+    "ScaledTimeAlive": 0.9542213065860568,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.09700460468285,
+    "TimeAlive": 144.63805323086936,
+    "ScaledTimeAlive": 0.9076784789357731,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.68561903251089,
+    "TimeAlive": 115.28071267653684,
+    "ScaledTimeAlive": 0.9573958551647798,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.27309917033907,
+    "TimeAlive": 123.16499474189638,
+    "ScaledTimeAlive": 0.9011870810464948,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.71848298675252,
+    "TimeAlive": 106.61497811804962,
+    "ScaledTimeAlive": 0.8525890251734751,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.79070049651904,
+    "TimeAlive": 130.8603657636332,
+    "ScaledTimeAlive": 0.88648566825573,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.92335916403971,
+    "TimeAlive": 111.50998059835422,
+    "ScaledTimeAlive": 0.8296757494494088,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.5479108441064,
+    "TimeAlive": 118.49996227935506,
+    "ScaledTimeAlive": 0.828651431937985,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.3595878412756,
+    "TimeAlive": 112.00533722768031,
+    "ScaledTimeAlive": 0.9255319730849987,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.79720671291426,
+    "TimeAlive": 101.28968885381188,
+    "ScaledTimeAlive": 0.8114889965110247,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.37967619275057,
+    "TimeAlive": 142.4817697334512,
+    "ScaledTimeAlive": 0.8442260178703954,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.5440209097888,
+    "TimeAlive": 131.4653979579533,
+    "ScaledTimeAlive": 0.8154335546778954,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.43237837708617,
+    "TimeAlive": 124.10087047444733,
+    "ScaledTimeAlive": 0.9723298340053611,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.9498763721524,
+    "TimeAlive": 130.01581239874514,
+    "ScaledTimeAlive": 0.8941433117613271,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.38132574911955,
+    "TimeAlive": 112.92368814562013,
+    "ScaledTimeAlive": 0.8718042289145969,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 80.0629434843177,
+    "TimeAlive": 123.51379211724174,
+    "ScaledTimeAlive": 0.9056152419362636,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.67956730264247,
+    "TimeAlive": 132.10764702423188,
+    "ScaledTimeAlive": 0.8231763880232394,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.31619902869713,
+    "TimeAlive": 121.4135643526616,
+    "ScaledTimeAlive": 0.8811456985383194,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.43671429164945,
+    "TimeAlive": 145.3418927646965,
+    "ScaledTimeAlive": 0.9273753181569898,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.37962032130007,
+    "TimeAlive": 149.32638302214897,
+    "ScaledTimeAlive": 0.9744075165171711,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.28868929014155,
+    "TimeAlive": 140.5958672839142,
+    "ScaledTimeAlive": 0.8201639517070429,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 87.44565269662483,
+    "TimeAlive": 115.18521342111468,
+    "ScaledTimeAlive": 0.8507807096226785,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.98605669117624,
+    "TimeAlive": 142.91152564940415,
+    "ScaledTimeAlive": 0.9465645164817733,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.38362232641072,
+    "TimeAlive": 129.57695801157712,
+    "ScaledTimeAlive": 0.9068594333976951,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.261967645429,
+    "TimeAlive": 126.30307889610151,
+    "ScaledTimeAlive": 0.8372974015885838,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.05910113361563,
+    "TimeAlive": 146.49856206261953,
+    "ScaledTimeAlive": 0.9087195433842483,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 86.45925075499146,
+    "TimeAlive": 143.94137406807477,
+    "ScaledTimeAlive": 0.9641611716505295,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 87.3721348778375,
+    "TimeAlive": 121.51715482376366,
+    "ScaledTimeAlive": 0.8597491689506306,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.43786707363769,
+    "TimeAlive": 127.35797573885833,
+    "ScaledTimeAlive": 0.8559117371496311,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 86.16545039782362,
+    "TimeAlive": 146.95777731174604,
+    "ScaledTimeAlive": 0.8475746919618355,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.3118563551286,
+    "TimeAlive": 138.7031507238839,
+    "ScaledTimeAlive": 0.8633819493257345,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.34310425835565,
+    "TimeAlive": 133.79280849643368,
+    "ScaledTimeAlive": 0.9467064050702001,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 85.57864729821705,
+    "TimeAlive": 100.44981820481992,
+    "ScaledTimeAlive": 0.856058143678588,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 84.30749071857434,
+    "TimeAlive": 130.05309614071567,
+    "ScaledTimeAlive": 0.9276376683602441,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 87.06461295759267,
+    "TimeAlive": 118.38524006111759,
+    "ScaledTimeAlive": 0.931707536106535,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.53474735724826,
+    "TimeAlive": 117.78941199668093,
+    "ScaledTimeAlive": 0.9434772009293877,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 92.78557566983817,
+    "TimeAlive": 141.1727875195135,
+    "ScaledTimeAlive": 0.9623203680157965,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 83.01239602222064,
+    "TimeAlive": 139.3049358593584,
+    "ScaledTimeAlive": 0.8850629751973937,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.9933277371613,
+    "TimeAlive": 143.7419309286085,
+    "ScaledTimeAlive": 0.9399170549932693,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 87.0456603801612,
+    "TimeAlive": 122.2763039969769,
+    "ScaledTimeAlive": 0.90763702678597,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 94.83697958755207,
+    "TimeAlive": 141.66604309718275,
+    "ScaledTimeAlive": 0.9942357172964591,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 91.54743875200256,
+    "TimeAlive": 117.9428690482129,
+    "ScaledTimeAlive": 0.8724413723869983,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 80.40459886240774,
+    "TimeAlive": 149.13829343409898,
+    "ScaledTimeAlive": 0.8468374253179939,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.43580912669393,
+    "TimeAlive": 109.91620392521251,
+    "ScaledTimeAlive": 0.9309568728516895,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 81.48658525038707,
+    "TimeAlive": 112.79407095201529,
+    "ScaledTimeAlive": 0.891883260799257,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 87.04336444201316,
+    "TimeAlive": 141.6945423080553,
+    "ScaledTimeAlive": 0.8337416353084255,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 84.09318484230579,
+    "TimeAlive": 125.60118618376363,
+    "ScaledTimeAlive": 0.8832277486808192,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.929078367555,
+    "TimeAlive": 111.1834522171239,
+    "ScaledTimeAlive": 0.8438961443475823,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 99.50909483959866,
+    "TimeAlive": 131.4674935143672,
+    "ScaledTimeAlive": 0.9475480410535868,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 95.02394116797225,
+    "TimeAlive": 113.99920240320279,
+    "ScaledTimeAlive": 0.9030990270052496,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 84.404329500287,
+    "TimeAlive": 120.70724286590068,
+    "ScaledTimeAlive": 0.9241803166107483,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 98.8961114351344,
+    "TimeAlive": 100.57256903926324,
+    "ScaledTimeAlive": 0.8190905910795065,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 90.97417589694533,
+    "TimeAlive": 146.60584023867506,
+    "ScaledTimeAlive": 0.9031841263093866,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 81.89883259344582,
+    "TimeAlive": 120.81965549988085,
+    "ScaledTimeAlive": 0.9067074725422053,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 92.18946150254091,
+    "TimeAlive": 135.08188704288534,
+    "ScaledTimeAlive": 0.9612840912364187,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.03202554868982,
+    "TimeAlive": 115.97502627454533,
+    "ScaledTimeAlive": 0.9413125677886184,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 82.53474286241983,
+    "TimeAlive": 141.13939918300636,
+    "ScaledTimeAlive": 0.9758989990307328,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 90.21269195996801,
+    "TimeAlive": 113.96197315403077,
+    "ScaledTimeAlive": 0.9893520239390591,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 85.70027850317072,
+    "TimeAlive": 102.85760050270275,
+    "ScaledTimeAlive": 0.9195390716269236,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 88.93163399872518,
+    "TimeAlive": 134.05174756605462,
+    "ScaledTimeAlive": 0.9405234680109207,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 99.3570573616564,
+    "TimeAlive": 141.15656393857859,
+    "ScaledTimeAlive": 0.9623556563801771,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 85.93303279877355,
+    "TimeAlive": 116.45830364889991,
+    "ScaledTimeAlive": 0.9269075692802502,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 89.38570225722707,
+    "TimeAlive": 123.14381064788672,
+    "ScaledTimeAlive": 0.8074950545571223,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 82.9156521752898,
+    "TimeAlive": 131.64656226656382,
+    "ScaledTimeAlive": 0.9782618724456535,
+    "Team_Terrorist": false
+  },
+  {
+    "AvgRoundVelocity": 89.12592543842263,
+    "TimeAlive": 105.8883229587819,
+    "ScaledTimeAlive": 0.8308927063920811,
+    "Team_Terrorist": true
+  },
+  {
+    "AvgRoundVelocity": 93.63722599728573,
+    "TimeAlive": 135.24621100158458,
+    "ScaledTimeAlive": 0.8453260642534528,
+    "Team_Terrorist": false
+  }
+]
